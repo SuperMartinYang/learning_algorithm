@@ -1,0 +1,19 @@
+read_file
+get_words_from_line_list
+get_words_from_string
+count_frequency
+insertion_sort
+word_frequencies_for_file
+inner_product
+vector_angle
+
+
+sol_1: worst
+sol_2: using extend to connect two lists
+sol_3: inner_product: use DP
+sol_4: count_frequency: use dict
+sol_5: get_words_from_string: use string.translate to split words
+sol_6: change insertion_sort into merge_sort (recursive, sort, merge, divide and conquer)
+sol_7: fully use dictionary, without using sort. no need, sort just help quicker computer inner product, but use dict, array mode hash will be quicker
+       without go through the list each time
+sol_8: treat whole file as a line, rather than line by line
