@@ -1,3 +1,4 @@
-pets
-file_process
+pets/
+file_process/
 .DS_Store
+.gitignore
