@@ -42,4 +42,4 @@ class Solution(object):
 
 
 s = Solution()
-print s.removeInvalidParentheses("()(((((((()")
+print(s.removeInvalidParentheses("()(((((((()"))
