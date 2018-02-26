@@ -1,69 +1,110 @@
+from Cryptodome.Cipher import DES
 class MyDES:
-    def keygenerate(self, key, seq=0):
+    """
+    Usage:
+        input: 0x0123456789ABCDEF
+        key: 0x133457799BBCDFF1
+        output: 0x8444a39a8f7817cf
+    """
+    def str2bits(self, text, length):
+        # text = int.from_bytes(bytes(text, "latin-1"), "little")
+        text = int(text, 16)
+        text = bin(text)
+        # bitArray = [0 for _ in range(length)]
+        # for i in range(length):
+        #     if i % 4 == 0:
+        #         cnt = 3
+        #         bitArray[i + cnt] = text & 0x1
+        #     else:
+        #         cnt -= 2
+        #         bitArray[i + cnt] = text & 0x1
+        #     text >>= 1
+        i = 0
+        bitArray = [0 for _ in range(length)]
+        while i < len(text) - 2:
+            bitArray[length - 1 - i] = int(text[len(text) - i - 1])
+            i += 1
+        return bitArray
+
+    def bytes2bits(self, text, length):
+        bitArray = [0 for _ in range(length)]
+        for i in range(length):
+            if i % 4 == 0:
+                cnt = 3
+                bitArray[i + cnt] = text & 0x1
+            else:
+                cnt -= 2
+                bitArray[i + cnt] = text & 0x1
+            text >>= 1
+        return bitArray
+
+    def bits2str(self, bitArray):
+        text = [str(i) for i in bitArray]
+        text = int(''.join(text),2)
+        # for i in range(len(bitArray)):
+        #     if i % 4 == 0:
+        #         cnt = 3
+        #         text |= bitArray[i] << (i + cnt)
+        #     else:
+        #         cnt -= 2
+        #         text |= bitArray[i] << (i + cnt)
+        return hex(text)
+
+    def keygenerate(self, key, seq=0, forward = True):
         """
         generate key
-        :return:
+        :return: list[] 0 -> n - 1
         """
-        RIGHT = 0xFFFFFFF
-        LEFT = 0xFFFFFFF << 28
-        pc1 = """
-                57   49    41   33    25    17    9
-                 1   58    50   42    34    26   18
-                10    2    59   51    43    35   27
-                19   11     3   60    52    44   36
-                63   55    47   39    31    23   15
-                 7   62    54   46    38    30   22
-                14    6    61   53    45    37   29
-                21   13     5   28    20    12    4
-            """
-        pc2 = """
-                14    17   11    24     1    5
-                 3    28   15     6    21   10
-                23    19   12     4    26    8
-                16     7   27    20    13    2
-                41    52   31    37    47   55
-                30    40   51    45    33   48
-                44    49   39    56    34   53
-                46    42   50    36    29   32
-              """
-        shifttable = """
-                         1   1   2   2   2   2   2   2   1   2   2   2   2   2   2   1
-                    """
-        pc1, pc2, shifttable = pc1.split(), pc2.split(), shifttable.split()
-        pc1 = [int(i) for i in pc1]
-        pc2 = [int(i) for i in pc2]
-        shifttable = [int(i) for i in shifttable]
-        print(pc1)
-        res = 0
-        if not seq:
-            for i in range(len(pc1)):
-                print((key & (1 << pc1[i])) >> pc1[i], '\t')
-                res |= ((key & (1 << pc1[i])) >> pc1[i]) << (55 - i)
-        rightPart = RIGHT & res
-        leftPart = LEFT & res
-        rightPart <<= shifttable[seq]
-        leftPart <<= shifttable[seq]
-        tmp = (rightPart & RIGHT) | (leftPart & LEFT)
-        res = 0
-        print("*********************************************************")
-        for j in range(len(pc2)):
-            print((tmp & (1 << pc2[j])) >> pc2[j])
-            res |= ((tmp & (1 << pc2[j])) >> pc2[j]) << (47 - j)
-
-        return res
+        pc1 = [57, 49, 41, 33, 25, 17, 9, 1, 58, 50, 42, 34, 26, 18, 10, 2, 59, 51, 43, 35, 27, 19, 11, 3, 60, 52, 44, 36, 63, 55, 47, 39, 31, 23, 15, 7, 62, 54, 46, 38, 30, 22, 14, 6, 61, 53, 45, 37, 29, 21, 13, 5, 28, 20, 12, 4]
+        pc2 = [14, 17, 11, 24, 1, 5, 3, 28, 15, 6, 21, 10, 23, 19, 12, 4, 26, 8, 16, 7, 27, 20, 13, 2, 41, 52, 31, 37, 47, 55, 30, 40, 51, 45, 33, 48, 44, 49, 39, 56, 34, 53, 46, 42, 50, 36, 29, 32]
+        shiftTable = [1, 1, 2, 2, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2, 1]
+        realKey = [0 for _ in range(56)]
+        for i in range(len(pc1)):
+            realKey[i] = key[pc1[i] - 1]
+        shiftNum = sum(shiftTable[:seq + 1]) if forward else sum(shiftTable[:len(shiftTable) - seq])
+        shiftNum %= 28
+        # leftpart & rightpart
+        leftShifted = realKey[0:shiftNum]
+        rightShifted = realKey[28:28 + shiftNum]
+        for i in range(28):
+            if i + shiftNum > 27:
+                continue
+            else:
+                realKey[i] = realKey[i + shiftNum]
+                realKey[i + 28] = realKey[i + shiftNum + 28]
+        for i in range(28 - shiftNum, 28):
+            realKey[i] = leftShifted[i - 28 + shiftNum]
+            realKey[i + 28] = rightShifted[i - 28 + shiftNum]
+        finalKey = [0 for _ in range(48)]
+        for i in range(len(pc2)):
+            finalKey[i] = realKey[pc2[i] - 1]
+        return finalKey
 
     def expand(self, ri):
-        et = [
+        """
+
+        :param ri: list[]
+        :return: list[]
+        """
+        expandTable = [
             32, 1, 2, 3, 4, 5, 4, 5, 6, 7, 8, 9, 8, 9, 10, 11,
             12, 13, 12, 13, 14, 15, 16, 17, 16, 17, 18, 19, 20, 21, 20, 21,
             22, 23, 24, 25, 24, 25, 26, 27, 28, 29, 28, 29, 30, 31, 32, 1
         ]
-        res = 0
-        for i in range(len(et)):
-            res |= ((ri & (1 << et[i])) >> et[i]) << (47 - i)
+        # ri = self.str2bits(ri, 32)
+        res = [0 for _ in range(len(expandTable))]
+        for i in range(len(expandTable)):
+            res[i] = ri[expandTable[i] - 1]
+
         return res
 
     def permutation(self, text, choice=0):
+        """
+        choice: 0-> ip, 1-> ip inverse, 2 -> pbox for shrink
+        :param text: list
+        :param choice: int
+        :return: list
+        """
         ip = [
             58, 50, 42, 34, 26, 18, 10, 2, 60, 52, 44, 36, 28, 20, 12, 4,
             62, 54, 46, 38, 30, 22, 14, 6, 64, 56, 48, 40, 32, 24, 16, 8,
@@ -81,14 +122,22 @@ class MyDES:
             2, 8, 24, 14, 32, 27, 3, 9, 19, 13, 30, 6, 22, 11, 4, 25
         ]
         tmpIp = iIp if choice == 1 else ip if choice == 0 else pbox
-        res = 0
+        # text = self.str2bits(text, len(tmpIp))
+        res = [0 for _ in range(len(tmpIp))]
         for i in range(len(tmpIp)):
-            res |= ((text & (1 << tmpIp[i])) >> tmpIp[i]) << (len(tmpIp) - i)
+            res[i] = text[tmpIp[i] - 1]
+
         return res
 
     def f(self, ri, ki1):
+        """
+
+        :param ri: list
+        :param ki1: list
+        :return: list
+        """
         rix = self.expand(ri)
-        tmp = rix ^ ki1
+        tmp = [rix[i] ^ ki1[i] for i in range(len(rix))]
         shrink = self.sbox(tmp)
         return self.permutation(shrink, 2)
 
@@ -143,22 +192,57 @@ class MyDES:
                 2, 1, 14, 7, 4, 10, 8, 13, 15, 12, 9, 0, 3, 5, 6, 11
             ]
         ]
-        # get 6 bits
-        sixBits = 0b111111
-        res = 0
-        for i in range(8):
-            six = tmp & sixBits
-            row = (six & 0b1) | ((six & 0x100000) >> 4)
-            col = (six & 0b11110) >> 0b1
-            res |= (S_Box[7 - i][row * 16 + col] << (4 ** i))
-            tmp >>= 6
+        res = []
+        for i in range(0, len(tmp), 6):
+            item = i // 6
+            row = tmp[i] << 1 | tmp[i + 5]
+            col = tmp[i + 4] | tmp[i + 3] << 1 | tmp[i + 2] << 2 | tmp[i + 1] << 3
+            val = S_Box[item][row * 16 + col]
+            res.extend(self.bytes2bits(val, 4))
         return res
+
+    def encrypt(self, plaintext, key):
+        plaintext = self.str2bits(plaintext, 64)
+        plaintext = self.permutation(plaintext, 0)
+        key = self.str2bits(key, 64)
+        l0 = plaintext[:32]
+        r0 = plaintext[32:]
+        for i in range(16):
+            k1 = self.keygenerate(key, i)
+            r1Half = self.f(r0, k1)
+            tmpR0 = r0
+            r0 = [l0[i] ^ r1Half[i] for i in range(32)]
+            l0 = tmpR0
+        r0.extend(l0)
+        ciphertext = self.permutation(r0, 1)
+        return self.bits2str(ciphertext)
+
+    def decrypt(self, ciphertext, key):
+        ciphertext = self.str2bits(ciphertext, 64)
+        ciphertext = self.permutation(ciphertext, 0)
+        key = self.str2bits(key, 64)
+        l0 = ciphertext[:32]
+        r0 = ciphertext[32:]
+        for i in range(16):
+            k1 = self.keygenerate(key, i, forward=False)
+            tmpR0 = r0
+            r1Half = self.f(r0, k1)
+            r0 = [l0[i] ^ r1Half[i] for i in range(32)]
+            l0 = tmpR0
+        r0.extend(l0)
+        plaintext = self.permutation(r0, 1)
+        return self.bits2str(plaintext)
 
 
 tryDes = MyDES()
-plaintext = 0xFEDCBA9876543210
-print(bin(plaintext))
-print(tryDes.keygenerate(plaintext))
-print(tryDes.permutation(plaintext))
-print(tryDes.expand(plaintext & 0xffffffff))
-print(hex((((plaintext & 0xffffffff) << 32) >> 32) ^ tryDes.f(plaintext & 0xffffffff, tryDes.keygenerate(plaintext))))
+# plaintext = b"\x10\x32\x54\x76\x98\xba\xdc\xfe"
+plaintext = input("Please input the plaintext (Hex str): ")
+key = input("Please input the key (Hex str): ")
+ciphertext = tryDes.encrypt(plaintext, key)
+print(ciphertext)
+plaintext2 = tryDes.decrypt(ciphertext, key)
+print(plaintext2)
+# key = bytes(key, 'latin-1')
+# plaintextBytes = bytes(plaintext, 'latin-1')
+# des = DES.new(key, DES.MODE_ECB)
+# print(hex(int.from_bytes(des.encrypt(plaintextBytes), "little")))

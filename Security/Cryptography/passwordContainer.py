@@ -37,7 +37,7 @@ class PassContainer:
             for match in cur.fetchall():
                 print("Username: ", match[1])
                 print("Password: ", des.decrypt(match[2]))
-                print()
+                print("#################################################################")
 
 
 def main():

@@ -2,20 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9204eb1-1642-428a-8eb9-c5a523e9dea9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/81082.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Security/Cryptography/myDES.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Security/Cryptography/one_time_shift.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Security/Cryptography/passwordContainer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/hard/minimal_window_substring.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/hard/sodukuSolver.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/PycharmProjects.iml" afterPath="$PROJECT_DIR$/.idea/PycharmProjects.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Security/Cryptography/BitManipulation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Security/Cryptography/bytes_hex_int.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Security/Cryptography/myAES.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Security/Cryptography/myMD5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Security/Cryptography/myRSA.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Security/Cryptography/mySHA-256.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Security/Cryptography/sslDecryptor.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Security/WiFi/disassociation_attack.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Security/spider/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Security/spider/linkedin_contact_spider.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Security/spider/spider.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Security/torjan_horse/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Security/torjan_horse/system_trojan.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Security/web_security/networkMonitor.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Security/web_security/simple_sqlmap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Security/web_security/simple_xssmap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/medium/radixSort.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/medium/replace_words.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mini_projects/thread_implemention/event_driven_concurrency.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mini_projects/thread_implemention/process_concurrency.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mini_projects/thread_implemention/producer_consumer_concurrency.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mini_projects/thread_implemention/reader_writer_concurrency.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mini_projects/thread_implemention/thread_pool.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Security/torjan_horse/trojan.py" afterPath="$PROJECT_DIR$/Security/torjan_horse/trojan.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/hard/removeInvalidParentheses.py" afterPath="$PROJECT_DIR$/leetcode/hard/removeInvalidParentheses.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/medium/ThreeSum.py" afterPath="$PROJECT_DIR$/leetcode/medium/ThreeSum.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Security/Cryptography/myDES.py" afterPath="$PROJECT_DIR$/Security/Cryptography/myDES.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Security/Cryptography/passwordContainer.py" afterPath="$PROJECT_DIR$/Security/Cryptography/passwordContainer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Security/Cryptography/test.py" afterPath="$PROJECT_DIR$/Security/Cryptography/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Security/hex2char.py" afterPath="$PROJECT_DIR$/Security/hex2char.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/medium/search_in_2D_matrix.py" afterPath="$PROJECT_DIR$/leetcode/medium/search_in_2D_matrix.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Security/torjan_horse/trojan.py" afterPath="$PROJECT_DIR$/Security/torjan_horse/mail_trojan.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,6 +44,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/PycharmProjects$find_missing_positive.coverage" NAME="find_missing_positive Coverage Results" MODIFIED="1516728682828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
     <SUITE FILE_PATH="coverage/PycharmProjects$NQueens.coverage" NAME="NQueens Coverage Results" MODIFIED="1516823272317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$replace_words.coverage" NAME="replace_words Coverage Results" MODIFIED="1519348220089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$client.coverage" NAME="client Coverage Results" MODIFIED="1510632482619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Security/covert_channel" />
     <SUITE FILE_PATH="coverage/PycharmProjects$reverse_by_recursive.coverage" NAME="reverse_by_recursive Coverage Results" MODIFIED="1506435805759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linked_list" />
     <SUITE FILE_PATH="coverage/PycharmProjects$testcase.coverage" NAME="testcase Coverage Results" MODIFIED="1511936510456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CLRS" />
@@ -35,7 +53,8 @@
     <SUITE FILE_PATH="coverage/PycharmProjects$Longest_Increasing_Subsequence.coverage" NAME="Longest_Increasing_Subsequence Coverage Results" MODIFIED="1511039597726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Reverse_Polish_Notations.coverage" NAME="Reverse_Polish_Notations Coverage Results" MODIFIED="1515622668621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$reverse_word_in_string.coverage" NAME="reverse_word_in_string Coverage Results" MODIFIED="1515643301298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$myDES.coverage" NAME="myDES Coverage Results" MODIFIED="1518487205566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Security/Cryptography" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$bytes_hex_int.coverage" NAME="bytes_hex_int Coverage Results" MODIFIED="1519612361771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Security/Cryptography" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$myDES.coverage" NAME="myDES Coverage Results" MODIFIED="1519354811822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Security/Cryptography" />
     <SUITE FILE_PATH="coverage/PycharmProjects$search_in_2D_matrix.coverage" NAME="search_in_2D_matrix Coverage Results" MODIFIED="1516154653130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$sodukuSolver.coverage" NAME="sodukuSolver Coverage Results" MODIFIED="1518062167642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
     <SUITE FILE_PATH="coverage/PycharmProjects$wordLadder.coverage" NAME="wordLadder Coverage Results" MODIFIED="1515464292548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
@@ -50,11 +69,12 @@
     <SUITE FILE_PATH="coverage/PycharmProjects$target_sum.coverage" NAME="target_sum Coverage Results" MODIFIED="1511813690509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$prefix2infix.coverage" NAME="prefix2infix Coverage Results" MODIFIED="1516935682653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$spiral_matrix.coverage" NAME="spiral_matrix Coverage Results" MODIFIED="1517253504227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mySHA_256.coverage" NAME="mySHA-256 Coverage Results" MODIFIED="1519613658048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Security/Cryptography" />
     <SUITE FILE_PATH="coverage/PycharmProjects$minimal_window_substring.coverage" NAME="minimal_window_substring Coverage Results" MODIFIED="1517876258075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
     <SUITE FILE_PATH="coverage/PycharmProjects$sell_ice_cream.coverage" NAME="sell_ice_cream Coverage Results" MODIFIED="1517006706545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/Quant" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$test.coverage" NAME="test Coverage Results" MODIFIED="1511811304933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Security/Cryptography" />
     <SUITE FILE_PATH="coverage/PycharmProjects$rotate_image.coverage" NAME="rotate_image Coverage Results" MODIFIED="1512370589611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$DroneDelivery.coverage" NAME="DroneDelivery Coverage Results" MODIFIED="1517519369540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/Quant" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test.coverage" NAME="test Coverage Results" MODIFIED="1519612511187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Security/Cryptography" />
     <SUITE FILE_PATH="coverage/PycharmProjects$wiggle_sort2.coverage" NAME="wiggle_sort2 Coverage Results" MODIFIED="1517113899065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$server.coverage" NAME="server Coverage Results" MODIFIED="1510633590383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Security/covert_channel" />
     <SUITE FILE_PATH="coverage/PycharmProjects$search_in_rotated_sorted_array.coverage" NAME="search_in_rotated_sorted_array Coverage Results" MODIFIED="1513054291362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
@@ -115,95 +135,68 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="passwordContainer.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Security/Cryptography/passwordContainer.py">
+      <file leaf-file-name="myRSA.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Security/Cryptography/myRSA.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="903">
-              <caret line="44" column="14" lean-forward="false" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#33#0" expanded="true" />
-                <marker date="1518432645937" expanded="true" signature="579:650" ph="INSERT INTO passtable... " />
-                <marker date="1518432645937" expanded="true" signature="1109:1149" ph="SELECT * FRO... passtable" />
-                <marker date="1518432645937" expanded="true" signature="1109:1151" ph="SELECT * FRO... passtable" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="myDES.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Security/Cryptography/myDES.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="549">
-              <caret line="158" column="16" lean-forward="true" selection-start-line="158" selection-start-column="16" selection-end-line="158" selection-end-column="16" />
+            <state relative-caret-position="21">
+              <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/1139096300/builtins.py">
+      <file leaf-file-name="system_trojan.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Security/torjan_horse/system_trojan.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1050">
-              <caret line="50" column="4" lean-forward="false" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+            <state relative-caret-position="42">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cursors.py" pinned="false" current-in-tab="false">
-        <entry file="file://G:/python3.6/Lib/site-packages/MySQLdb/cursors.py">
+      <file leaf-file-name="networkMonitor.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Security/web_security/networkMonitor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8526">
-              <caret line="415" column="16" lean-forward="false" selection-start-line="415" selection-start-column="16" selection-end-line="415" selection-end-column="16" />
+            <state relative-caret-position="21">
+              <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DES.py" pinned="false" current-in-tab="false">
-        <entry file="file://G:/python3.6/Lib/site-packages/Cryptodome/Cipher/DES.py">
+      <file leaf-file-name="simple_sqlmap.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Security/web_security/simple_sqlmap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding>
-                <element signature="e#1344#1354#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_mysql.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/1139096300/_mysql.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5523">
-              <caret line="263" column="47" lean-forward="false" selection-start-line="263" selection-start-column="47" selection-end-line="263" selection-end-column="47" />
+            <state relative-caret-position="21">
+              <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="connections.py" pinned="false" current-in-tab="false">
-        <entry file="file://G:/python3.6/Lib/site-packages/MySQLdb/connections.py">
+      <file leaf-file-name="simple_xssmap.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Security/web_security/simple_xssmap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3528">
-              <caret line="178" column="31" lean-forward="true" selection-start-line="178" selection-start-column="31" selection-end-line="178" selection-end-column="31" />
+            <state relative-caret-position="21">
+              <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sqlmap.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/extend_package/sqlmap-dev/sqlmap.py">
+      <file leaf-file-name="disassociation_attack.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Security/WiFi/disassociation_attack.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            <state relative-caret-position="0">
+              <caret line="0" column="51" lean-forward="false" selection-start-line="0" selection-start-column="51" selection-end-line="0" selection-end-column="51" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sqlmapapi.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/extend_package/sqlmap-dev/sqlmapapi.py">
+      <file leaf-file-name="rsa.key.pub" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Security/covert_channel/reverse_ssh/rsa.key.pub">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -212,12 +205,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bdb.py" pinned="false" current-in-tab="false">
-        <entry file="file://G:/python3.6/Lib/bdb.py">
+      <file leaf-file-name="rsa.key" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Security/covert_channel/reverse_ssh/rsa.key">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="client.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Security/covert_channel/reverse_ssh/client.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -234,9 +249,18 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>digStack</find>
+      <find>bits2bytes</find>
+      <find>str</find>
+      <find>H</find>
+      <find>+=</find>
     </findStrings>
     <replaceStrings>
       <replace>expressStack</replace>
+      <replace>str2bits</replace>
+      <replace>bits2str</replace>
+      <replace>byteStr</replace>
+      <replace>self.H</replace>
+      <replace>= self.H[0] +</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -246,37 +270,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/medium/zigzag_level_order_traversal.py" />
-        <option value="$PROJECT_DIR$/leetcode/medium/sortedListToBST.py" />
-        <option value="$PROJECT_DIR$/leetcode/medium/wordLadder.py" />
-        <option value="$PROJECT_DIR$/leetcode/medium/reorderList.py" />
-        <option value="$PROJECT_DIR$/leetcode/medium/Reverse_Polish_Notations.py" />
-        <option value="$PROJECT_DIR$/leetcode/medium/reverse_word_in_string.py" />
-        <option value="$PROJECT_DIR$/leetcode/medium/find_min_in_rotated_array.py" />
-        <option value="$PROJECT_DIR$/leetcode/medium/find_peak_in_array.py" />
-        <option value="$PROJECT_DIR$/leetcode/medium/search_in_2D_matrix.py" />
-        <option value="$PROJECT_DIR$/leetcode/medium/additive_number.py" />
-        <option value="$PROJECT_DIR$/leetcode/medium/Range_Sum_Query.py" />
-        <option value="$PROJECT_DIR$/leetcode/medium/Minimun_Depth_Trees.py" />
-        <option value="$PROJECT_DIR$/leetcode/medium/Nth_Ugly_Number.py" />
-        <option value="$PROJECT_DIR$/leetcode/medium/coin_change.py" />
-        <option value="$PROJECT_DIR$/leetcode/medium/max_chunks_to_make_sorted.py" />
-        <option value="$PROJECT_DIR$/Security/hexFile.txt" />
-        <option value="$PROJECT_DIR$/Security/hex2char.py" />
-        <option value="$PROJECT_DIR$/leetcode/medium/validPreorder.py" />
-        <option value="$PROJECT_DIR$/leetcode/medium/Reconstruct_Itinerary.py" />
-        <option value="$PROJECT_DIR$/leetcode/medium/robTree.py" />
-        <option value="$PROJECT_DIR$/leetcode/hard/reverseListInKGroups.py" />
-        <option value="$PROJECT_DIR$/leetcode/hard/deleteMinParenthese.py" />
-        <option value="$PROJECT_DIR$/leetcode/hard/validSubstringParentese.py" />
-        <option value="$PROJECT_DIR$/Security/torjan_horse/trojan.py" />
-        <option value="$PROJECT_DIR$/leetcode/hard/find_missing_positive.py" />
-        <option value="$PROJECT_DIR$/leetcode/hard/NQueens.py" />
-        <option value="$PROJECT_DIR$/leetcode/hard/insertInterval.py" />
-        <option value="$PROJECT_DIR$/leetcode/medium/prefix2infix.py" />
-        <option value="$PROJECT_DIR$/leetcode/Quant/sentMail.py" />
-        <option value="$PROJECT_DIR$/leetcode/Quant/sell_ice_cream.py" />
-        <option value="$PROJECT_DIR$/leetcode/medium/findKthLargestElement.py" />
         <option value="$PROJECT_DIR$/leetcode/medium/global_local_inversion.py" />
         <option value="$PROJECT_DIR$/leetcode/medium/wiggle_sort2.py" />
         <option value="$PROJECT_DIR$/leetcode/medium/ThreeSum.py" />
@@ -296,7 +289,38 @@
         <option value="$PROJECT_DIR$/Security/Cryptography/one_time_shift.py" />
         <option value="$PROJECT_DIR$/leetcode/hard/sodukuSolver.py" />
         <option value="$PROJECT_DIR$/Security/Cryptography/passwordContainer.py" />
+        <option value="$PROJECT_DIR$/leetcode/medium/search_in_2D_matrix.py" />
+        <option value="$PROJECT_DIR$/Security/Cryptography/sslDecryptor.py" />
+        <option value="$PROJECT_DIR$/leetcode/medium/replace_words.py" />
+        <option value="$PROJECT_DIR$/leetcode/medium/radixSort.py" />
+        <option value="$PROJECT_DIR$/Security/spider/contact_spider.py" />
+        <option value="$PROJECT_DIR$/Security/web_security/simple_sqlmap.py" />
+        <option value="$PROJECT_DIR$/Security/web_security/simple_xssmap.py" />
+        <option value="$PROJECT_DIR$/Security/web_security/networkMonitor.py" />
+        <option value="$PROJECT_DIR$/Security/torjan_horse/system_trojan.py" />
+        <option value="$PROJECT_DIR$/Security/torjan_horse/mail_trojan.py" />
+        <option value="$PROJECT_DIR$/Security/torjan_horse/README.md" />
         <option value="$PROJECT_DIR$/Security/Cryptography/myDES.py" />
+        <option value="$PROJECT_DIR$/Security/Cryptography/myAES.py" />
+        <option value="$PROJECT_DIR$/Security/myRSA.py" />
+        <option value="$PROJECT_DIR$/mini_projects/thread_implemention/reader_writer_concurrency.py" />
+        <option value="$PROJECT_DIR$/mini_projects/thread_implemention/producer_consumer_concurrency.py" />
+        <option value="$PROJECT_DIR$/mini_projects/thread_implemention/thread_pool.py" />
+        <option value="$PROJECT_DIR$/mini_projects/thread_implemention/process_concurrency.py" />
+        <option value="$PROJECT_DIR$/mini_projects/thread_implemention/event_monitoring_concurrency.py" />
+        <option value="$PROJECT_DIR$/Security/spider/spider.py" />
+        <option value="$PROJECT_DIR$/Security/spider/init.py" />
+        <option value="$PROJECT_DIR$/Security/spider/linkedin_contact_spider.py" />
+        <option value="$PROJECT_DIR$/Security/WiFi/disassociation_attack.py" />
+        <option value="$PROJECT_DIR$/Security/Cryptography/rot.py" />
+        <option value="$PROJECT_DIR$/Security/Cryptography/myRSA.py" />
+        <option value="$PROJECT_DIR$/Security/hex2char.py" />
+        <option value="$PROJECT_DIR$/Security/Cryptography/BitManipulation.py" />
+        <option value="$PROJECT_DIR$/Security/Cryptography/test.py" />
+        <option value="$PROJECT_DIR$/Security/Cryptography/mySHA-256.py" />
+        <option value="$PROJECT_DIR$/Security/Cryptography/myMD5.py" />
+        <option value="$PROJECT_DIR$/Security/Cryptography/bytes_hex_int.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -306,11 +330,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="519" />
-    <option name="y" value="112" />
-    <option name="width" value="974" />
-    <option name="height" value="1057" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-70" />
+    <option name="y" value="89" />
+    <option name="width" value="1061" />
+    <option name="height" value="1028" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -353,39 +377,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="extend_package" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="Security" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="Security" type="462c0819:PsiDirectoryNode" />
-              <item name="Cryptography" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -402,21 +393,76 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="Security" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="Security" type="462c0819:PsiDirectoryNode" />
+              <item name="covert_channel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="Security" type="462c0819:PsiDirectoryNode" />
+              <item name="covert_channel" type="462c0819:PsiDirectoryNode" />
+              <item name="reverse_ssh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="Security" type="462c0819:PsiDirectoryNode" />
+              <item name="spider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="Security" type="462c0819:PsiDirectoryNode" />
+              <item name="torjan_horse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="Security" type="462c0819:PsiDirectoryNode" />
+              <item name="web_security" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="Security" type="462c0819:PsiDirectoryNode" />
+              <item name="WiFi" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="G:/python2.7/python.exe" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="SearchEverywhereHistoryKey" value="Constant&#9;null&#9;null&#10;gcd&#9;FILE&#9;file://G:/python3.6/Lib/test/dtracedata/gc.d&#10;count bit&#9;null&#9;null&#10;bits&#9;FILE&#9;file://G:/python3.6/include/bitset.h&#10;two&#9;FILE&#9;file://H:/PycharmProjects/test/easy/two_sum.py" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://H:/PycharmProjects/.gitignore&#10;Constant&#9;null&#9;null&#10;gcd&#9;FILE&#9;file://G:/python3.6/Lib/test/dtracedata/gc.d&#10;count bit&#9;null&#9;null&#10;bits&#9;FILE&#9;file://G:/python3.6/include/bitset.h&#10;two&#9;FILE&#9;file://H:/PycharmProjects/test/easy/two_sum.py" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\PycharmProjects\Security\Cryptography" />
+      <recent name="H:\PycharmProjects\leetcode\Quant" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="H:\PycharmProjects\CLRS" />
       <recent name="H:\PycharmProjects\Security\Cryptography" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="H:\PycharmProjects\leetcode\Quant" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -431,21 +477,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.myDES">
-    <configuration name="minimal_window_substring" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.mySHA-256">
+    <configuration name="bytes_hex_int" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode/hard" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Security/Cryptography" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PycharmProjects" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/hard/minimal_window_substring.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Security/Cryptography/bytes_hex_int.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -468,7 +514,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="one_time_shift" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mySHA-256" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -481,12 +527,30 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PycharmProjects" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Security/Cryptography/one_time_shift.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Security/Cryptography/mySHA-256.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="passwordContainer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="replace_words" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode/medium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/medium/replace_words.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -499,43 +563,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PycharmProjects" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Security/Cryptography/passwordContainer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="sodukuSolver" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode/hard" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PycharmProjects" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/hard/sodukuSolver.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Security/Cryptography/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.minimal_window_substring" />
-      <item index="1" class="java.lang.String" itemvalue="Python.one_time_shift" />
-      <item index="2" class="java.lang.String" itemvalue="Python.sodukuSolver" />
-      <item index="3" class="java.lang.String" itemvalue="Python.passwordContainer" />
-      <item index="4" class="java.lang.String" itemvalue="Python.myDES" />
+      <item index="0" class="java.lang.String" itemvalue="Python.myDES" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.replace_words" />
+      <item index="3" class="java.lang.String" itemvalue="Python.mySHA-256" />
+      <item index="4" class="java.lang.String" itemvalue="Python.bytes_hex_int" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.myDES" />
-        <item index="1" class="java.lang.String" itemvalue="Python.passwordContainer" />
-        <item index="2" class="java.lang.String" itemvalue="Python.sodukuSolver" />
-        <item index="3" class="java.lang.String" itemvalue="Python.one_time_shift" />
-        <item index="4" class="java.lang.String" itemvalue="Python.minimal_window_substring" />
+        <item index="0" class="java.lang.String" itemvalue="Python.mySHA-256" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.bytes_hex_int" />
+        <item index="3" class="java.lang.String" itemvalue="Python.myDES" />
+        <item index="4" class="java.lang.String" itemvalue="Python.replace_words" />
       </list>
     </recent_temporary>
   </component>
@@ -555,21 +601,30 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16257995" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3892473" sideWeight="0.39925373" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16897655" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3107527" sideWeight="0.42857143" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.49573562" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2" sideWeight="0.6007463" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3107527" sideWeight="0.5714286" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.49573562" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40752688" sideWeight="0.46268657" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41075268" sideWeight="0.8576759" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1169,13 +1224,8 @@
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/leetcode/medium/search_in_2D_matrix.py</url>
-          <line>34</line>
+          <line>102</line>
           <option name="timeStamp" value="181" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/leetcode/medium/search_in_2D_matrix.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="184" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/leetcode/medium/additive_number.py</url>
@@ -1259,7 +1309,7 @@
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Security/hex2char.py</url>
-          <line>9</line>
+          <line>12</line>
           <option name="timeStamp" value="205" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
@@ -1532,6 +1582,51 @@
           <line>11</line>
           <option name="timeStamp" value="290" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/medium/replace_words.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="307" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/medium/replace_words.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="308" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/medium/replace_words.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="309" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Security/Cryptography/myDES.py</url>
+          <line>242</line>
+          <option name="timeStamp" value="310" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Security/Cryptography/myDES.py</url>
+          <line>233</line>
+          <option name="timeStamp" value="330" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Security/Cryptography/myDES.py</url>
+          <line>225</line>
+          <option name="timeStamp" value="334" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Security/Cryptography/mySHA-256.py</url>
+          <line>149</line>
+          <option name="timeStamp" value="340" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Security/Cryptography/test.py</url>
+          <line>134</line>
+          <option name="timeStamp" value="341" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Security/Cryptography/mySHA-256.py</url>
+          <line>122</line>
+          <option name="timeStamp" value="347" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -1540,303 +1635,44 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="291" />
+      <option name="time" value="348" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Security/hex2char.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="301">
+          <caret line="309" column="36" lean-forward="false" selection-start-line="309" selection-start-column="36" selection-end-line="309" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/medium/validPreorder.py">
+    <entry file="file://G:/python3.6/Lib/site-packages/MySQLdb/connections.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="44" lean-forward="false" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-          <folding />
+        <state relative-caret-position="3528">
+          <caret line="178" column="31" lean-forward="false" selection-start-line="178" selection-start-column="31" selection-end-line="178" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/medium/Nth_Ugly_Number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="29" lean-forward="false" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/medium/robTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="18" lean-forward="false" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/os/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="68" column="4" lean-forward="false" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/python3.6/Lib/site-packages/pythoncom.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="66" lean-forward="false" selection-start-line="2" selection-start-column="66" selection-end-line="2" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/hard/validSubstringParentese.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/hard/deleteMinParenthese.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/python3.6/Lib/site-packages/xlrd/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="37" column="4" lean-forward="false" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/hard/find_missing_positive.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/hard/insertInterval.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="38" column="29" lean-forward="false" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Security/torjan_horse/trojan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="206" column="20" lean-forward="false" selection-start-line="206" selection-start-column="20" selection-end-line="206" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/hard/reverseListInKGroups.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="24" lean-forward="false" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/hard/NQueens.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="26" lean-forward="false" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/medium/Reconstruct_Itinerary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/python3.6/Lib/site-packages/win32com/client/gencache.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11004">
-          <caret line="530" column="4" lean-forward="false" selection-start-line="530" selection-start-column="4" selection-end-line="530" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/medium/findKthLargestElement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/medium/global_local_inversion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/medium/ThreeSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="38" column="32" lean-forward="false" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/medium/strStr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/python3.6/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6510">
-          <caret line="310" column="0" lean-forward="false" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/medium/dividWithoutDivid.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/medium/SubString_of_AllStringConcatenation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="32" column="47" lean-forward="false" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/medium/wiggle_sort2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1407">
-          <caret line="67" column="32" lean-forward="false" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/medium/spiral_matrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/hard/text_justify.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/medium/search_in_rotated_sorted_array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="35" column="6" lean-forward="false" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/Quant/sentMail.py" />
-    <entry file="file://$PROJECT_DIR$/Security/Cryptography/one_time_shift.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="47" lean-forward="false" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/Quant/sell_ice_cream.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/Quant/prefix2infix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/hard/removeInvalidParentheses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="44" column="48" lean-forward="false" selection-start-line="44" selection-start-column="48" selection-end-line="44" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/hard/minimal_window_substring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="33" column="44" lean-forward="false" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/Quant/postfix2infix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="47" lean-forward="false" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/Quant/DroneDelivery.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="83" column="12" lean-forward="false" selection-start-line="83" selection-start-column="12" selection-end-line="83" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/medium/search_in_rotated_sorted_array2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="4" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/medium/rotate_list.py">
+    <entry file="file://G:/python3.6/Lib/bdb.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/medium/search_in_2D_matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1974">
+          <caret line="94" column="17" lean-forward="true" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/hard/sodukuSolver.py">
+    <entry file="file://G:/python3.6/Lib/site-packages/MySQLdb/cursors.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/python3.6/Lib/site-packages/crypto/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/extend_package/sqlmap-dev/sqlmap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="21">
+          <caret line="415" column="16" lean-forward="false" selection-start-line="415" selection-start-column="16" selection-end-line="415" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -1844,24 +1680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/python3.6/Lib/site-packages/Cryptodome/Cipher/DES.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding>
-            <element signature="e#1344#1354#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extend_package/sqlmap-dev/thirdparty/pydes/pyDes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="660" column="8" lean-forward="false" selection-start-line="660" selection-start-column="8" selection-end-line="660" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -1869,35 +1687,216 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5523">
           <caret line="263" column="47" lean-forward="false" selection-start-line="263" selection-start-column="47" selection-end-line="263" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/python3.6/Lib/site-packages/Cryptodome/Cipher/DES.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="86" column="4" lean-forward="false" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/medium/replace_words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="861">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
+    <entry file="file://$PROJECT_DIR$/leetcode/medium/radixSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/python3.6/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="306" column="6" lean-forward="false" selection-start-line="306" selection-start-column="6" selection-end-line="306" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Security/Cryptography/crypt_file_in_time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Security/Cryptography/try.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Security/torjan_horse/mail_trojan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9282">
+          <caret line="459" column="14" lean-forward="false" selection-start-line="459" selection-start-column="14" selection-end-line="459" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Security/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Security/Cryptography/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="75" lean-forward="false" selection-start-line="0" selection-start-column="75" selection-end-line="0" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Security/torjan_horse/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="28" lean-forward="true" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini_projects/thread_implemention/reader_writer_concurrency.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini_projects/thread_implemention/producer_consumer_concurrency.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini_projects/thread_implemention/thread_pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/requests/api.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
-          <caret line="309" column="36" lean-forward="false" selection-start-line="309" selection-start-column="36" selection-end-line="309" selection-end-column="36" />
-          <folding />
+          <caret line="95" column="4" lean-forward="false" selection-start-line="95" selection-start-column="4" selection-end-line="95" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/python3.6/Lib/site-packages/MySQLdb/connections.py">
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/1139096300/lxml/etree/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3528">
-          <caret line="178" column="31" lean-forward="true" selection-start-line="178" selection-start-column="31" selection-end-line="178" selection-end-column="31" />
-          <folding />
+        <state relative-caret-position="427">
+          <caret line="108" column="3" lean-forward="false" selection-start-line="108" selection-start-column="3" selection-end-line="108" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/python3.6/Lib/site-packages/MySQLdb/cursors.py">
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/1139096300/lxml/etree/_Element.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8526">
-          <caret line="415" column="16" lean-forward="false" selection-start-line="415" selection-start-column="16" selection-end-line="415" selection-end-column="16" />
+        <state relative-caret-position="448">
+          <caret line="380" column="43" lean-forward="false" selection-start-line="380" selection-start-column="43" selection-end-line="380" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Security/spider/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Security/spider/spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Security/spider/linkedin_contact_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/python3.6/Lib/bdb.py">
+    <entry file="file://$PROJECT_DIR$/mini_projects/thread_implemention/event_driven_concurrency.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini_projects/thread_implemention/process_concurrency.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Security/hex2char.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Security/Cryptography/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="144" column="0" lean-forward="true" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
+          <folding>
+            <element signature="e#21#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/1139096300/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-160">
+          <caret line="1038" column="33" lean-forward="false" selection-start-line="1038" selection-start-column="33" selection-end-line="1038" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Security/Cryptography/sslDecryptor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1907,29 +1906,151 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Security/Cryptography/passwordContainer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="903">
-          <caret line="44" column="14" lean-forward="false" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
+        <state relative-caret-position="574">
+          <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
           <folding>
-            <element signature="e#0#33#0" expanded="true" />
-            <marker date="1518432645937" expanded="true" signature="579:650" ph="INSERT INTO passtable... " />
-            <marker date="1518432645937" expanded="true" signature="1109:1149" ph="SELECT * FRO... passtable" />
-            <marker date="1518432645937" expanded="true" signature="1109:1151" ph="SELECT * FRO... passtable" />
+            <marker date="1518496762070" expanded="true" signature="579:650" ph="INSERT INTO passtable... " />
+            <marker date="1518496762070" expanded="true" signature="1109:1149" ph="SELECT * FRO... passtable" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/1139096300/builtins.py">
+    <entry file="file://$PROJECT_DIR$/Security/Cryptography/one_time_shift.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="50" column="4" lean-forward="false" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+        <state relative-caret-position="210">
+          <caret line="10" column="47" lean-forward="false" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Security/Cryptography/mySHA-256.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="992">
+          <caret line="107" column="21" lean-forward="true" selection-start-line="107" selection-start-column="21" selection-end-line="107" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Security/Cryptography/myMD5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Security/Cryptography/myDES.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="158" column="16" lean-forward="true" selection-start-line="158" selection-start-column="16" selection-end-line="158" selection-end-column="16" />
+        <state relative-caret-position="681">
+          <caret line="244" column="28" lean-forward="true" selection-start-line="244" selection-start-column="28" selection-end-line="244" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Security/Cryptography/myAES.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Security/Cryptography/BitManipulation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Security/Cryptography/bytes_hex_int.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="true" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Security/Cryptography/myRSA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Security/torjan_horse/system_trojan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Security/web_security/networkMonitor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Security/web_security/simple_sqlmap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Security/web_security/simple_xssmap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Security/WiFi/disassociation_attack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="51" lean-forward="false" selection-start-line="0" selection-start-column="51" selection-end-line="0" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Security/covert_channel/reverse_ssh/rsa.key.pub">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Security/covert_channel/reverse_ssh/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Security/covert_channel/reverse_ssh/rsa.key">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
