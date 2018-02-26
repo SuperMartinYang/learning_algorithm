@@ -1,1 +1,0 @@
-# https://cybersecuritylabs.wordpress.com/2014/02/01/wireless-networks-deauthenticationdisassociation-attack/
