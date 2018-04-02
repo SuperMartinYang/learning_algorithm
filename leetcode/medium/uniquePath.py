@@ -34,5 +34,38 @@ class Solution(object):
 
         return findPath(obstacleGrid, 0, 0)
 
+    def uniquePathNoObstacles(self, m, n):
+        """
+        space m * n
+        :param m:
+        :param n:
+        :return:
+        """
+        res = [[0 for _ in range(n)] for _ in range(m)]
+        for i in range(m):
+            res[i][0] = 1
+        for i in range(n):
+            res[0][i] = 1
+        if res[m - 1][n - 1]:
+            return res[m - 1][n - 1]
+        res[m - 1][n - 1] = self.uniquePathNoObstacles(m - 1, n) + self.uniquePathNoObstacles(m, n - 1)
+        return res[m - 1][n - 1]
+
+    def uniquePathNoObstacles2(self, m, n):
+        """
+        space: n
+        :param m: row
+        :param n: col
+        :return:
+        """
+        res = [0 for _ in range(n)]
+        res[0] = 1
+        for i in range(m):
+            for j in range(1, n):
+                res[j] += res[j - 1]
+        return res[n - 1]
+
+
 s = Solution()
-print s.uniquePathsWithObstacles([[0],[0]])
+# print(s.uniquePathsWithObstacles([[0],[0]]))
+print(s.uniquePathNoObstacles2(10, 7))
