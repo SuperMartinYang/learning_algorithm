@@ -25,4 +25,4 @@ class Solution(object):
         return 0
 
 s = Solution()
-print s.ladderLength("hit","cog",["hot","dot","dog","lot","log","cog"])
+print(s.ladderLength("hit","cog",["hot","dot","dog","lot","log","cog"]))
