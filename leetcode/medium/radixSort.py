@@ -1,5 +1,4 @@
 def radix_sort(array, base=10):
-    # Todo
     def list_to_buckets(array, base, iteration):
         buckets = [[] for _ in range(base)]
         for number in array:
@@ -27,3 +26,6 @@ def radix_sort(array, base=10):
         it += 1
 
     return array
+
+
+radix_sort([3,33,13,88,18,9,188])
