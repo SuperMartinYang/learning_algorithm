@@ -4,7 +4,7 @@
         * scrapy
     * url for Samsung phone
         * [url](http://list.jd.com/list.html?cat=9987,653,655&ev=exbrand_15127&page=1&sort=sort_rank_asc&trans=1&JL=6_0_0#J_main)
-``` json
+``` js
 Xpath for requirement:
 _x_query = {
     'next_page': '//*[@id="J_topPage"]/a[2]/@href',
