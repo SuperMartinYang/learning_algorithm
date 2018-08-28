@@ -19,34 +19,35 @@ class Solution(object):
         :type M: List[List[int]]
         :rtype: int
         """
-        # DFS       mark 0 -> use loop to do -> change mark 1 ->
-        N = len(M)
-        mark = [0] * N
-        circleNum = 0
-        for i in range(N):  # multi-circle, cannot be done from one root
-            if mark[i] == 0:
-                stack = []
-                start = i
-                stack.append(start)
-                mark[start] = 1
-                while stack:
-                    # do DFS
-                    tmp = stack[-1]
-                    i = 0
-                    while i < N:
-                        if M[tmp][i] == 1 and mark[i] == 0:
-                            mark[i] = 1
-                            stack.append(i)
-                            break
-                        i += 1
-                    if i == N:
-                        stack.pop()
-                circleNum += 1
+    # DFS       mark 0 -> use loop to do -> change mark 1 ->
+    N = len(M)
+    mark = [0] * N
+    circleNum = 0
+    for i in range(N):  # multi-circle, cannot be done from one root
+        if mark[i] == 0:
+            stack = []
+            start = i
+            stack.append(start)
+            mark[start] = 1
+            while stack:
+                # do DFS
+                tmp = stack[-1]
+                i = 0
+                while i < N:
+                    if M[tmp][i] == 1 and mark[i] == 0:
+                        mark[i] = 1
+                        stack.append(i)
+                        break
+                    i += 1
+                if i == N:
+                    stack.pop()
+            circleNum += 1
 
-        return circleNum
+    return circleNum
 
 
 
 M = [[1,0,0,1],[0,1,1,0],[0,1,1,1],[1,0,1,1]]
+M = [[0,0,0], []]
 s = Solution()
 print(s.findCircleNum(M))
