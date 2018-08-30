@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9204eb1-1642-428a-8eb9-c5a523e9dea9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/hard/Range_Sum_Query_2D_Mutable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/hard/Range_Sum_Query_Mutable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/hard/_Create_a_File.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/medium/asteroid_collision.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/easy/_Create_a_File.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/medium/Word_Squares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/medium/_Create_a_File.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/hard/Valid_Word_Square.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/hard/Valid_Word_Square.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/medium/Longest_Increasing_Subsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/medium/Longest_Increasing_Subsequence.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -177,6 +178,7 @@
     <SUITE FILE_PATH="coverage/PycharmProjects$rectangle_min_sum.coverage" NAME="rectangle_min_sum Coverage Results" MODIFIED="1535082014664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$target_sum.coverage" NAME="target_sum Coverage Results" MODIFIED="1511813690509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$find_minimum_in_rotated_sorted_array2.coverage" NAME="find_minimum_in_rotated_sorted_array2 Coverage Results" MODIFIED="1525984243396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$_Create_a_File__1_.coverage" NAME="_Create_a_File (1) Coverage Results" MODIFIED="1535604359779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Linked_list_has_cycle.coverage" NAME="Linked_list_has_cycle Coverage Results" MODIFIED="1508177998074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/easy" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Maximum_XOR_of_Two_Numbers_in_an_Array.coverage" NAME="Maximum_XOR_of_Two_Numbers_in_an_Array Coverage Results" MODIFIED="1528573592889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$additive_number.coverage" NAME="additive_number Coverage Results" MODIFIED="1516330965970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
@@ -193,33 +195,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="split_array_largest_sum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/hard/split_array_largest_sum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="evaluate_reverse_polish_notation.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/medium/evaluate_reverse_polish_notation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="asteroid_collision.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/medium/asteroid_collision.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Range_Sum_Query_Mutable.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/hard/Range_Sum_Query_Mutable.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -229,20 +204,52 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_Create_a_File.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_Create_a_File.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/hard/_Create_a_File.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="42">
-              <caret line="2" column="62" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
+              <caret line="2" column="75" lean-forward="true" selection-start-line="2" selection-start-column="75" selection-end-line="2" selection-end-column="75" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Valid_Word_Square.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/hard/Valid_Word_Square.py">
+      <file leaf-file-name="_Create_a_File.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/easy/_Create_a_File.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="_Create_a_File.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/medium/_Create_a_File.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            <state relative-caret-position="105">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Word_Squares.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/medium/Word_Squares.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Longest_Increasing_Subsequence.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/medium/Longest_Increasing_Subsequence.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/medium/1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2016">
+              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -251,7 +258,7 @@
         <entry file="file://$PROJECT_DIR$/leetcode/hard/Binary_Tree_Longest_Consecutive_Sequence.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -270,15 +277,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="446">
               <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Non_decreasing_Array.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/easy/Non_decreasing_Array.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -327,8 +325,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/medium/serialize_and_deserialize_BST.py" />
-        <option value="$PROJECT_DIR$/leetcode/medium/Minimum_Number_of_Arrows_to_Burst_Balloons.py" />
         <option value="$PROJECT_DIR$/leetcode/medium/132pattern.py" />
         <option value="$PROJECT_DIR$/leetcode/medium/circular_array_loop.py" />
         <option value="$PROJECT_DIR$/leetcode/medium/unique_substring_in_wrapround_string.py" />
@@ -375,9 +371,11 @@
         <option value="$PROJECT_DIR$/leetcode/medium/asteroid_collision.py" />
         <option value="$PROJECT_DIR$/leetcode/hard/Range_Sum_Query_2D_Mutable.py" />
         <option value="$PROJECT_DIR$/leetcode/hard/Range_Sum_Query_Mutable.py" />
-        <option value="$PROJECT_DIR$/leetcode/hard/Valid_Word_Square.py" />
         <option value="$PROJECT_DIR$/leetcode/hard/Binary_Tree_Longest_Consecutive_Sequence.py" />
         <option value="$PROJECT_DIR$/leetcode/hard/_Create_a_File.py" />
+        <option value="$PROJECT_DIR$/leetcode/hard/Valid_Word_Square.py" />
+        <option value="$PROJECT_DIR$/leetcode/medium/Longest_Increasing_Subsequence.py" />
+        <option value="$PROJECT_DIR$/leetcode/medium/Word_Squares.py" />
       </list>
     </option>
   </component>
@@ -470,7 +468,19 @@
               <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="hard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -486,16 +496,18 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="H:\PycharmProjects\CLRS" />
-      <recent name="H:\PycharmProjects\Security\Cryptography" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="H:\PycharmProjects\interview_exam\app_annie\samsung_spider" />
       <recent name="H:\PycharmProjects\interview_exam\union" />
       <recent name="H:\PycharmProjects\interview_exam" />
       <recent name="H:\PycharmProjects\Security\Cryptography" />
       <recent name="H:\PycharmProjects\leetcode\Quant" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\PycharmProjects\leetcode\medium" />
+      <recent name="H:\PycharmProjects\leetcode\easy" />
+      <recent name="H:\PycharmProjects\CLRS" />
+      <recent name="H:\PycharmProjects\Security\Cryptography" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -510,7 +522,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python._Create_a_File">
+  <component name="RunManager" selected="Python._Create_a_File (1)">
     <configuration name="Range_Sum_Query_2D_Mutable" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -544,6 +556,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/hard/Range_Sum_Query_Mutable.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="_Create_a_File (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode/medium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/medium/_Create_a_File.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -587,39 +618,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="evaluate_reverse_polish_notation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode/medium" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/medium/evaluate_reverse_polish_notation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
-      <item itemvalue="Python.evaluate_reverse_polish_notation" />
       <item itemvalue="Python.asteroid_collision" />
       <item itemvalue="Python.Range_Sum_Query_Mutable" />
       <item itemvalue="Python.Range_Sum_Query_2D_Mutable" />
       <item itemvalue="Python._Create_a_File" />
+      <item itemvalue="Python._Create_a_File (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python._Create_a_File (1)" />
         <item itemvalue="Python._Create_a_File" />
         <item itemvalue="Python.Range_Sum_Query_2D_Mutable" />
         <item itemvalue="Python.Range_Sum_Query_Mutable" />
         <item itemvalue="Python.asteroid_collision" />
-        <item itemvalue="Python.evaluate_reverse_polish_notation" />
       </list>
     </recent_temporary>
   </component>
@@ -634,6 +646,14 @@
       <option name="presentableId" value="Default" />
       <updated>1506126643954</updated>
     </task>
+    <task id="LOCAL-00001" summary="add new algorithms, prepare for gg">
+      <created>1535602876029</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1535602876029</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -647,14 +667,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32903227" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.20309168" side_tool="true" weight="0.33978495" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.35021323" side_tool="true" visible="true" weight="0.1961207" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Python Console" order="9" sideWeight="0.49573562" weight="0.3286638" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7969083" visible="true" weight="0.1961207" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6497868" visible="true" weight="0.1961207" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49573562" weight="0.3286638" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1433902" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
@@ -679,6 +698,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add new algorithms, prepare for gg" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new algorithms, prepare for gg" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -885,7 +908,7 @@
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/leetcode/medium/Longest_Increasing_Subsequence.py</url>
-          <line>17</line>
+          <line>60</line>
           <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
@@ -2192,41 +2215,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/easy/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/medium/reverse_word_in_string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/medium/compare_version_number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/medium/Longest_Substring_Without_Repeating_Characters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/easy/add_binary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1491">
-          <caret line="71" column="14" selection-start-line="71" selection-start-column="14" selection-end-line="71" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/interview_exam/huawei/knapsack.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -2524,13 +2512,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/hard/Valid_Word_Square.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/hard/basic_calculator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -2541,14 +2522,52 @@
     <entry file="file://$PROJECT_DIR$/leetcode/hard/Binary_Tree_Longest_Consecutive_Sequence.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/hard/Valid_Word_Square.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/hard/_Create_a_File.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
-          <caret line="2" column="62" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
+          <caret line="2" column="75" lean-forward="true" selection-start-line="2" selection-start-column="75" selection-end-line="2" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/easy/_Create_a_File.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/medium/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2016">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/medium/Longest_Increasing_Subsequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/medium/_Create_a_File.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/medium/Word_Squares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
         </state>
       </provider>
     </entry>

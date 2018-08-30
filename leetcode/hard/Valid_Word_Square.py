@@ -1,7 +1,7 @@
 class Solution(object):
     def valid_word_square(self, words):
         m = len(words)
-        n = len(words[0]) if 0
+        n = len(words[0]) if m else 0
         if m != n: return False
         for i in range(m):
             for j in range(n):
