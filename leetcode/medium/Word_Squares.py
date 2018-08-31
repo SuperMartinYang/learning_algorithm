@@ -38,3 +38,4 @@ class Solution(object):
         # update tmp
         s = ''
         for i in range(level):
+            return 'TODO'
