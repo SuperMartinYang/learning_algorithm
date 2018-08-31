@@ -16,6 +16,7 @@ class Solution(object):
 
         reverse_point = 0
 
+        # find the reverse point
         for i in range(len(nums) - 1, 0, -1):
             if nums[i] > nums[i - 1]:
                 reverse_point = i
@@ -29,5 +30,22 @@ class Solution(object):
             swap(nums, swap_point, reverse_point - 1)
         return nums
 
+    def nextPermutation2(self, nums):
+        # find the decrease point from backward to forward
+        decreasePoint = - 1
+        for i in range(len(nums) - 1)[::-1]:
+            if nums[i] < nums[i + 1]:
+                decreasePoint = i
+                break
+        if decreasePoint == -1: return nums[::-1]
+        # find the new higher point
+        for i in range(decreasePoint + 1, len(nums)):
+            if i == len(nums) - 1 or nums[i + 1] < nums[decreasePoint]:
+                nums[decreasePoint], nums[i] = nums[i], nums[decreasePoint]
+                print(i)
+                break
+        # reverse from decrease point (exclude) to the end
+        nums = nums[:decreasePoint + 1] + nums[:decreasePoint:-1]
+        return nums
 s = Solution()
-print(s.nextPermutation([1,3,2]))
+print(s.nextPermutation2([1,3,4,6,5,2]))
