@@ -1,4 +1,7 @@
 class Solution(object):
+    def elimination_game(self, n):
+        return 1 if n == 1 else 2 * (1 + n // 2 - self.elimination_game(n // 2))
+
     def lastRemaining(self, n):
         """
         :type n: int
@@ -15,3 +18,5 @@ class Solution(object):
             left = not left
             remain //= 2
         return head
+
+print(Solution().elimination_game(9))

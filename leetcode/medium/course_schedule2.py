@@ -12,8 +12,8 @@ class Solution(object):
         graph = defaultdict(list)
         in_degrees = defaultdict(int)
         for c, pc in prerequisites:
-            graph[pc].append(c)
-            in_degrees[c] += 1
+            graph[pc].append(c)             # from the prerequisite to the left course
+            in_degrees[c] += 1              # in degree == 0, append to visited and res
 
         # BFS
         visited = [i for i in range(numCourses) if in_degrees[i] == 0]
