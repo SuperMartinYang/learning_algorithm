@@ -1,7 +1,7 @@
 class Solution(object):
     def __init__(self, nums):
         """
-
+        # TODO memo
         :param nums: List[int]
         """
         self.nums = nums

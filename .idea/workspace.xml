@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9204eb1-1642-428a-8eb9-c5a523e9dea9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/easy/CSV_Formatter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/easy/Nim_Game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/hard/Closest_Binary_Search_Tree_Value_II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/hard/Remove_K_Digits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/medium/Closest_Binary_Search_Tree_Value.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/medium/The_Maze.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/medium/The_Maze_II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/medium/The_Maze_III.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/hard/Alien_Dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/hard/Alien_Dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/hard/Range_Sum_Query_Mutable.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/hard/Range_Sum_Query_Mutable.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,128 +19,66 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/PycharmProjects$longestPalindromic.coverage" NAME="longestPalindromic Coverage Results" MODIFIED="1515015834120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$split_array_largest_sum.coverage" NAME="split_array_largest_sum Coverage Results" MODIFIED="1535398053518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$similar_wordss.coverage" NAME="similar_wordss Coverage Results" MODIFIED="1535397960499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$_Create_a_File__2_.coverage" NAME="_Create_a_File (2) Coverage Results" MODIFIED="1535932927712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$Valid_Word_Abbreviation.coverage" NAME="Valid_Word_Abbreviation Coverage Results" MODIFIED="1535692221033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/easy" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$shortest_completing_word.coverage" NAME="shortest_completing_word Coverage Results" MODIFIED="1534994660864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$minimum_genetic_mutation.coverage" NAME="minimum_genetic_mutation Coverage Results" MODIFIED="1528579518151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$friend_cricle.coverage" NAME="friend_cricle Coverage Results" MODIFIED="1535339432273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview_exam/ByteDance" />
     <SUITE FILE_PATH="coverage/PycharmProjects$sodukuSolver.coverage" NAME="sodukuSolver Coverage Results" MODIFIED="1518062167642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
     <SUITE FILE_PATH="coverage/PycharmProjects$shortest_x_order_array.coverage" NAME="shortest_x_order_array Coverage Results" MODIFIED="1506618265010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/easy" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$global_local_inversion.coverage" NAME="global_local_inversion Coverage Results" MODIFIED="1517110807243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$find_median_from_data_stream.coverage" NAME="find_median_from_data_stream Coverage Results" MODIFIED="1526948305695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$1.coverage" NAME="1 Coverage Results" MODIFIED="1524228992998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview_exam/kuaishou" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$3Sum_Smaller.coverage" NAME="3Sum_Smaller Coverage Results" MODIFIED="1535662808949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Generalized_Abbreviation.coverage" NAME="Generalized_Abbreviation Coverage Results" MODIFIED="1535736498652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Can_I_Win.coverage" NAME="Can_I_Win Coverage Results" MODIFIED="1535743348893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$rotate_list.coverage" NAME="rotate_list Coverage Results" MODIFIED="1515201864835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$_Create_a_File.coverage" NAME="_Create_a_File Coverage Results" MODIFIED="1535912697849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/easy" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$top_k_frequent_element.coverage" NAME="top_k_frequent_element Coverage Results" MODIFIED="1507832513770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$remove_duplicate_letters.coverage" NAME="remove_duplicate_letters Coverage Results" MODIFIED="1527038160784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Surrounded_Regions.coverage" NAME="Surrounded_Regions Coverage Results" MODIFIED="1525283298018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$wordLadder.coverage" NAME="wordLadder Coverage Results" MODIFIED="1515464292548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$2.coverage" NAME="2 Coverage Results" MODIFIED="1523696430895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview_exam/souhu" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$2__1_.coverage" NAME="2 (1) Coverage Results" MODIFIED="1524228377304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview_exam/kuaishou" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$Remove_K_Digits.coverage" NAME="Remove_K_Digits Coverage Results" MODIFIED="1535934791686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$number_of_atoms.coverage" NAME="number_of_atoms Coverage Results" MODIFIED="1535082827802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
     <SUITE FILE_PATH="coverage/PycharmProjects$great_common_divder.coverage" NAME="great_common_divder Coverage Results" MODIFIED="1507741954300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/easy" />
     <SUITE FILE_PATH="coverage/PycharmProjects$longest_divisible_subset.coverage" NAME="longest_divisible_subset Coverage Results" MODIFIED="1527366930694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$prime.coverage" NAME="prime Coverage Results" MODIFIED="1506557601454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/easy" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$sortedListToBST.coverage" NAME="sortedListToBST Coverage Results" MODIFIED="1515364926397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$find_all_anagrams_in_str.coverage" NAME="find_all_anagrams_in_str Coverage Results" MODIFIED="1506613596456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/easy" />
     <SUITE FILE_PATH="coverage/PycharmProjects$wiggle_sort2.coverage" NAME="wiggle_sort2 Coverage Results" MODIFIED="1527319972915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$The_Maze.coverage" NAME="The_Maze Coverage Results" MODIFIED="1535920016787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$Group_Shifted_Strings.coverage" NAME="Group_Shifted_Strings Coverage Results" MODIFIED="1535740461814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$rotateList2.coverage" NAME="rotateList2 Coverage Results" MODIFIED="1517466134301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$spiral_matrix2.coverage" NAME="spiral_matrix2 Coverage Results" MODIFIED="1523943711182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$search_in_rotated_sorted_array.coverage" NAME="search_in_rotated_sorted_array Coverage Results" MODIFIED="1513054291362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$insertInterval.coverage" NAME="insertInterval Coverage Results" MODIFIED="1516922871510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$similar_string_groups.coverage" NAME="similar_string_groups Coverage Results" MODIFIED="1533852625467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
     <SUITE FILE_PATH="coverage/PycharmProjects$permutationSequence.coverage" NAME="permutationSequence Coverage Results" MODIFIED="1515286947682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$find_all_anagrams_in_a_string.coverage" NAME="find_all_anagrams_in_a_string Coverage Results" MODIFIED="1512012693409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/easy" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$asteroid_collision.coverage" NAME="asteroid_collision Coverage Results" MODIFIED="1535469714916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$cut_off_trees_for_golf_event.coverage" NAME="cut_off_trees_for_golf_event Coverage Results" MODIFIED="1534621167413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
     <SUITE FILE_PATH="coverage/PycharmProjects$client.coverage" NAME="client Coverage Results" MODIFIED="1510632482619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Security/covert_channel" />
     <SUITE FILE_PATH="coverage/PycharmProjects$multiply_string.coverage" NAME="multiply_string Coverage Results" MODIFIED="1534210117503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$3.coverage" NAME="3 Coverage Results" MODIFIED="1522642356783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview_exam/2" />
     <SUITE FILE_PATH="coverage/PycharmProjects$tile_stacking_problem.coverage" NAME="tile_stacking_problem Coverage Results" MODIFIED="1508048186465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$ThreeSum.coverage" NAME="ThreeSum Coverage Results" MODIFIED="1517178789031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$word_search2.coverage" NAME="word_search2 Coverage Results" MODIFIED="1526494120983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Best_Time_to_buy_and_sell_stock.coverage" NAME="Best_Time_to_buy_and_sell_stock Coverage Results" MODIFIED="1506457074535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/easy" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$text_justify.coverage" NAME="text_justify Coverage Results" MODIFIED="1517460807398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$Predict_the_Winner.coverage" NAME="Predict_the_Winner Coverage Results" MODIFIED="1535744008238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$ttt.coverage" NAME="ttt Coverage Results" MODIFIED="1522636698757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$removeDuplicates.coverage" NAME="removeDuplicates Coverage Results" MODIFIED="1515294643990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$print_postorder_from_preorder_and_inorder.coverage" NAME="print_postorder_from_preorder_and_inorder Coverage Results" MODIFIED="1536009634150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$from_1st_row_to_lst_row.coverage" NAME="from_1st_row_to_lst_row Coverage Results" MODIFIED="1536025397590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$removeInvalidParentheses.coverage" NAME="removeInvalidParentheses Coverage Results" MODIFIED="1514864650173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Range_Sum_Query_Mutable.coverage" NAME="Range_Sum_Query_Mutable Coverage Results" MODIFIED="1535578426943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
     <SUITE FILE_PATH="coverage/PycharmProjects$rtest.coverage" NAME="rtest Coverage Results" MODIFIED="1512704414995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Security/Bluetooth" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Insert_Delete_GetRandom_Duplicate.coverage" NAME="Insert_Delete_GetRandom_Duplicate Coverage Results" MODIFIED="1534979773947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
     <SUITE FILE_PATH="coverage/PycharmProjects$find_all_duplicates_in_an_array.coverage" NAME="find_all_duplicates_in_an_array Coverage Results" MODIFIED="1529023759195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Strobogrammatic_Number.coverage" NAME="Strobogrammatic_Number Coverage Results" MODIFIED="1535672076012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/easy" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$pascal_s_triangle2.coverage" NAME="pascal's_triangle2 Coverage Results" MODIFIED="1523668237571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/easy" />
     <SUITE FILE_PATH="coverage/PycharmProjects$spiral_matrix.coverage" NAME="spiral_matrix Coverage Results" MODIFIED="1517253504227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$reorderList.coverage" NAME="reorderList Coverage Results" MODIFIED="1515618119685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$wiggle_sequence.coverage" NAME="wiggle_sequence Coverage Results" MODIFIED="1527390651543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$CSV_Formatter.coverage" NAME="CSV_Formatter Coverage Results" MODIFIED="1535919241004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/easy" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$Minimun_Depth_Trees.coverage" NAME="Minimun_Depth_Trees Coverage Results" MODIFIED="1516339186154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$server.coverage" NAME="server Coverage Results" MODIFIED="1510633590383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Security/covert_channel" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Range_Sum_Query.coverage" NAME="Range_Sum_Query Coverage Results" MODIFIED="1526948743507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$prefix2infix__1_.coverage" NAME="prefix2infix (1) Coverage Results" MODIFIED="1517102880677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/Quant" />
     <SUITE FILE_PATH="coverage/PycharmProjects$validPreorder.coverage" NAME="validPreorder Coverage Results" MODIFIED="1516596920779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$evaluate_reverse_polish_notation.coverage" NAME="evaluate_reverse_polish_notation Coverage Results" MODIFIED="1535411412102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$testcase.coverage" NAME="testcase Coverage Results" MODIFIED="1511936510456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CLRS" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Closest_Binary_Search_Tree_Value_II.coverage" NAME="Closest_Binary_Search_Tree_Value_II Coverage Results" MODIFIED="1535929866842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$simplify_path.coverage" NAME="simplify_path Coverage Results" MODIFIED="1523763880200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$isScramble.coverage" NAME="isScramble Coverage Results" MODIFIED="1524777128630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$add_binary.coverage" NAME="add_binary Coverage Results" MODIFIED="1533966810624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/easy" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Friend_circle.coverage" NAME="Friend_circle Coverage Results" MODIFIED="1506916224663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$decode_string.coverage" NAME="decode_string Coverage Results" MODIFIED="1527564473534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$Longest_common_str.coverage" NAME="Longest_common_str Coverage Results" MODIFIED="1515016378927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$The_Maze_II.coverage" NAME="The_Maze_II Coverage Results" MODIFIED="1535921884193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$bytes_hex_int.coverage" NAME="bytes_hex_int Coverage Results" MODIFIED="1519612361771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Security/Cryptography" />
     <SUITE FILE_PATH="coverage/PycharmProjects$coin_change.coverage" NAME="coin_change Coverage Results" MODIFIED="1516508326492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$heapq_sort.coverage" NAME="heapq_sort Coverage Results" MODIFIED="1524785180871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/easy" />
     <SUITE FILE_PATH="coverage/PycharmProjects$trie.coverage" NAME="trie Coverage Results" MODIFIED="1522209938220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$Pascal_s_triangle.coverage" NAME="Pascal's_triangle Coverage Results" MODIFIED="1506438379259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/easy" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Maximum_Subarray.coverage" NAME="Maximum_Subarray Coverage Results" MODIFIED="1522602369609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/easy" />
     <SUITE FILE_PATH="coverage/PycharmProjects$max_chunks_to_make_sorted.coverage" NAME="max_chunks_to_make_sorted Coverage Results" MODIFIED="1516508538954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$radixSort.coverage" NAME="radixSort Coverage Results" MODIFIED="1525987229598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1533512799054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/easy" />
     <SUITE FILE_PATH="coverage/PycharmProjects$sell_ice_cream.coverage" NAME="sell_ice_cream Coverage Results" MODIFIED="1517006706545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/Quant" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$Reconstruct_Original_Digits_from_English.coverage" NAME="Reconstruct_Original_Digits_from_English Coverage Results" MODIFIED="1528255653933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$find_missing_positive.coverage" NAME="find_missing_positive Coverage Results" MODIFIED="1516728682828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$findKthLargestElement.coverage" NAME="findKthLargestElement Coverage Results" MODIFIED="1517107020167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$uniquePath2.coverage" NAME="uniquePath2 Coverage Results" MODIFIED="1522613252742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$mergeIntervals.coverage" NAME="mergeIntervals Coverage Results" MODIFIED="1515191850908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$reverse_by_recursive.coverage" NAME="reverse_by_recursive Coverage Results" MODIFIED="1506435805759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linked_list" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$find_right_interval.coverage" NAME="find_right_interval Coverage Results" MODIFIED="1528660795749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$prefix2infix.coverage" NAME="prefix2infix Coverage Results" MODIFIED="1516935682653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$bluetooth_detector.coverage" NAME="bluetooth_detector Coverage Results" MODIFIED="1513052170096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Security/Bluetooth" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$passwordContainer.coverage" NAME="passwordContainer Coverage Results" MODIFIED="1518452077545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Security/Cryptography" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$dividWithoutDivid.coverage" NAME="dividWithoutDivid Coverage Results" MODIFIED="1517195634315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$mySHA_256.coverage" NAME="mySHA-256 Coverage Results" MODIFIED="1519613658048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Security/Cryptography" />
     <SUITE FILE_PATH="coverage/PycharmProjects$spider_samsung.coverage" NAME="spider_samsung Coverage Results" MODIFIED="1524645358134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview_exam/app_annie/hw" />
     <SUITE FILE_PATH="coverage/PycharmProjects$path_sum2.coverage" NAME="path_sum2 Coverage Results" MODIFIED="1523663904839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$special_binary_string.coverage" NAME="special_binary_string Coverage Results" MODIFIED="1534621114638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
     <SUITE FILE_PATH="coverage/PycharmProjects$rotate_image.coverage" NAME="rotate_image Coverage Results" MODIFIED="1512370589611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$search_in_2D_matrix.coverage" NAME="search_in_2D_matrix Coverage Results" MODIFIED="1516154653130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$upper.coverage" NAME="upper Coverage Results" MODIFIED="1506908853756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/file_process" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$compare_version_number.coverage" NAME="compare_version_number Coverage Results" MODIFIED="1533933424852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$maxProduct.coverage" NAME="maxProduct Coverage Results" MODIFIED="1511501354847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$myDES.coverage" NAME="myDES Coverage Results" MODIFIED="1519354811822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Security/Cryptography" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$strStr.coverage" NAME="strStr Coverage Results" MODIFIED="1517192755313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$myPow.coverage" NAME="myPow Coverage Results" MODIFIED="1515122528650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1526596213077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$combination_sum4.coverage" NAME="combination_sum4 Coverage Results" MODIFIED="1527387843384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$knapsack.coverage" NAME="knapsack Coverage Results" MODIFIED="1534025155220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview_exam/huawei" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$NQueens.coverage" NAME="NQueens Coverage Results" MODIFIED="1516823272317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Range_Sum_Query_2D_Mutable.coverage" NAME="Range_Sum_Query_2D_Mutable Coverage Results" MODIFIED="1535579641291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
     <SUITE FILE_PATH="coverage/PycharmProjects$DroneDelivery.coverage" NAME="DroneDelivery Coverage Results" MODIFIED="1517519369540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/Quant" />
     <SUITE FILE_PATH="coverage/PycharmProjects$minimal_window_substring.coverage" NAME="minimal_window_substring Coverage Results" MODIFIED="1517876258075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$Reconstruct_Itinerary.coverage" NAME="Reconstruct_Itinerary Coverage Results" MODIFIED="1533528075540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$one_time_shift.coverage" NAME="one_time_shift Coverage Results" MODIFIED="1517876582966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Security/Cryptography" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$scratch_25.coverage" NAME="scratch_25 Coverage Results" MODIFIED="1511936251666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CLRS" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$replace_words.coverage" NAME="replace_words Coverage Results" MODIFIED="1519348220089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$rotate_function.coverage" NAME="rotate_function Coverage Results" MODIFIED="1527564762936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$distinct_subsequence.coverage" NAME="distinct_subsequence Coverage Results" MODIFIED="1523666979912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$shortest_path_to_all_keys.coverage" NAME="shortest_path_to_all_keys Coverage Results" MODIFIED="1533739861300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
@@ -155,56 +86,27 @@
     <SUITE FILE_PATH="coverage/PycharmProjects$maximum_square.coverage" NAME="maximum_square Coverage Results" MODIFIED="1511299437291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$remove_k_digits.coverage" NAME="remove_k_digits Coverage Results" MODIFIED="1527816402225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$uniquePath.coverage" NAME="uniquePath Coverage Results" MODIFIED="1522614162699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$palindrome_partitioning2.coverage" NAME="palindrome_partitioning2 Coverage Results" MODIFIED="1525983387978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
     <SUITE FILE_PATH="coverage/PycharmProjects$restore_ip_address.coverage" NAME="restore_ip_address Coverage Results" MODIFIED="1534707770566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$subsets.coverage" NAME="subsets Coverage Results" MODIFIED="1511924612254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$shortest_unsorted_continuous_subarray.coverage" NAME="shortest_unsorted_continuous_subarray Coverage Results" MODIFIED="1511926495821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/easy" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$LRU_cache.coverage" NAME="LRU_cache Coverage Results" MODIFIED="1525196924936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
     <SUITE FILE_PATH="coverage/PycharmProjects$search_in_rotated_sorted_array2.coverage" NAME="search_in_rotated_sorted_array2 Coverage Results" MODIFIED="1517466856110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$reverse_word_in_string.coverage" NAME="reverse_word_in_string Coverage Results" MODIFIED="1515643301298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$hex2char.coverage" NAME="hex2char Coverage Results" MODIFIED="1516596483382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Security" />
     <SUITE FILE_PATH="coverage/PycharmProjects$interleaving_string.coverage" NAME="interleaving_string Coverage Results" MODIFIED="1524783749223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$Longest_Repeating_Character_Replacement.coverage" NAME="Longest_Repeating_Character_Replacement Coverage Results" MODIFIED="1528579132231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$quicksort.coverage" NAME="quicksort Coverage Results" MODIFIED="1533767635728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/easy" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$course_schedule2.coverage" NAME="course_schedule2 Coverage Results" MODIFIED="1526248634074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$Letter_Combinations_of_a_Phone_Number.coverage" NAME="Letter_Combinations_of_a_Phone_Number Coverage Results" MODIFIED="1511034017715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$MinStack.coverage" NAME="MinStack Coverage Results" MODIFIED="1506468599111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/easy" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$odd_even_linked_list.coverage" NAME="odd_even_linked_list Coverage Results" MODIFIED="1534707699307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$find_peak_in_array.coverage" NAME="find_peak_in_array Coverage Results" MODIFIED="1515651263381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$log2csv.coverage" NAME="log2csv Coverage Results" MODIFIED="1523651079354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/file_process" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$pacific_atlantic_water_flow.coverage" NAME="pacific_atlantic_water_flow Coverage Results" MODIFIED="1528080807925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Strobogrammatic_Number_II.coverage" NAME="Strobogrammatic_Number_II Coverage Results" MODIFIED="1535672979450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$ones_and_zeros.coverage" NAME="ones_and_zeros Coverage Results" MODIFIED="1533004022302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$strange_printer.coverage" NAME="strange_printer Coverage Results" MODIFIED="1533760767050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
     <SUITE FILE_PATH="coverage/PycharmProjects$test.coverage" NAME="test Coverage Results" MODIFIED="1535168145669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview_exam/ByteDance" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Reverse_Polish_Notations.coverage" NAME="Reverse_Polish_Notations Coverage Results" MODIFIED="1515622668621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$longest_increasing_path_in_a_matrix.coverage" NAME="longest_increasing_path_in_a_matrix Coverage Results" MODIFIED="1527192234457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$Different_Ways_to_Add_Parentheses.coverage" NAME="Different_Ways_to_Add_Parentheses Coverage Results" MODIFIED="1526846739454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$Generate_parenthesis.coverage" NAME="Generate_parenthesis Coverage Results" MODIFIED="1506998641897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$number_of_island_2.coverage" NAME="number_of_island_2 Coverage Results" MODIFIED="1535669793427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$postfix2infix.coverage" NAME="postfix2infix Coverage Results" MODIFIED="1517520028705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/Quant" />
     <SUITE FILE_PATH="coverage/PycharmProjects$integer_break.coverage" NAME="integer_break Coverage Results" MODIFIED="1526845656700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$basic_calculator.coverage" NAME="basic_calculator Coverage Results" MODIFIED="1534378005408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$minimun_height_tree.coverage" NAME="minimun_height_tree Coverage Results" MODIFIED="1526954480380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Elimination_Game.coverage" NAME="Elimination_Game Coverage Results" MODIFIED="1535759836465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$reverseListInKGroups.coverage" NAME="reverseListInKGroups Coverage Results" MODIFIED="1516672576653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
     <SUITE FILE_PATH="coverage/PycharmProjects$find_min_in_rotated_array.coverage" NAME="find_min_in_rotated_array Coverage Results" MODIFIED="1515646643248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$Substring_with_Concatenation_of_All_Words.coverage" NAME="Substring_with_Concatenation_of_All_Words Coverage Results" MODIFIED="1534298170466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$next_permutation.coverage" NAME="next_permutation Coverage Results" MODIFIED="1535750136482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$Meeting_Rooms_II.coverage" NAME="Meeting_Rooms_II Coverage Results" MODIFIED="1535757270646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$removeDuplicates2.coverage" NAME="removeDuplicates2 Coverage Results" MODIFIED="1515287688930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$insertion_sort_list.coverage" NAME="insertion_sort_list Coverage Results" MODIFIED="1524800841792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$Longest_Increasing_Subsequence.coverage" NAME="Longest_Increasing_Subsequence Coverage Results" MODIFIED="1511039597726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$sort_color.coverage" NAME="sort_color Coverage Results" MODIFIED="1512012706840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$rectangle_min_sum.coverage" NAME="rectangle_min_sum Coverage Results" MODIFIED="1535082014664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$target_sum.coverage" NAME="target_sum Coverage Results" MODIFIED="1511813690509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$find_minimum_in_rotated_sorted_array2.coverage" NAME="find_minimum_in_rotated_sorted_array2 Coverage Results" MODIFIED="1525984243396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$_Create_a_File__1_.coverage" NAME="_Create_a_File (1) Coverage Results" MODIFIED="1535928045382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Linked_list_has_cycle.coverage" NAME="Linked_list_has_cycle Coverage Results" MODIFIED="1508177998074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/easy" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Maximum_XOR_of_Two_Numbers_in_an_Array.coverage" NAME="Maximum_XOR_of_Two_Numbers_in_an_Array Coverage Results" MODIFIED="1528573592889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$additive_number.coverage" NAME="additive_number Coverage Results" MODIFIED="1516330965970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$Palindrome_Permutation.coverage" NAME="Palindrome_Permutation Coverage Results" MODIFIED="1535745404411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/easy" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$jd_samsung.coverage" NAME="jd_samsung Coverage Results" MODIFIED="1524686703514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview_exam/app_annie/samsung_spider/samsung_spider/spiders" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Longest_Substring_Without_Repeating_Characters.coverage" NAME="Longest_Substring_Without_Repeating_Characters Coverage Results" MODIFIED="1533952629549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$shortest_palindrome.coverage" NAME="shortest_palindrome Coverage Results" MODIFIED="1526499458388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Nth_Ugly_Number.coverage" NAME="Nth_Ugly_Number Coverage Results" MODIFIED="1516385785683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
@@ -212,6 +114,100 @@
     <SUITE FILE_PATH="coverage/PycharmProjects$longest_word_in_dictionary.coverage" NAME="longest_word_in_dictionary Coverage Results" MODIFIED="1535065252975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/easy" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Course_Schedule.coverage" NAME="Course_Schedule Coverage Results" MODIFIED="1535758709847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$SubString_of_AllStringConcatenation.coverage" NAME="SubString_of_AllStringConcatenation Coverage Results" MODIFIED="1517198077595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$similar_wordss.coverage" NAME="similar_wordss Coverage Results" MODIFIED="1535397960499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$_Create_a_File__2_.coverage" NAME="_Create_a_File (2) Coverage Results" MODIFIED="1536026385654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Valid_Word_Abbreviation.coverage" NAME="Valid_Word_Abbreviation Coverage Results" MODIFIED="1535692221033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/easy" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$shortest_completing_word.coverage" NAME="shortest_completing_word Coverage Results" MODIFIED="1534994660864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$minimum_genetic_mutation.coverage" NAME="minimum_genetic_mutation Coverage Results" MODIFIED="1528579518151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$friend_cricle.coverage" NAME="friend_cricle Coverage Results" MODIFIED="1535339432273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview_exam/ByteDance" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$global_local_inversion.coverage" NAME="global_local_inversion Coverage Results" MODIFIED="1517110807243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$1.coverage" NAME="1 Coverage Results" MODIFIED="1524228992998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview_exam/kuaishou" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$3Sum_Smaller.coverage" NAME="3Sum_Smaller Coverage Results" MODIFIED="1535662808949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$rotate_list.coverage" NAME="rotate_list Coverage Results" MODIFIED="1515201864835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$top_k_frequent_element.coverage" NAME="top_k_frequent_element Coverage Results" MODIFIED="1507832513770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$remove_duplicate_letters.coverage" NAME="remove_duplicate_letters Coverage Results" MODIFIED="1527038160784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$2__1_.coverage" NAME="2 (1) Coverage Results" MODIFIED="1524228377304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview_exam/kuaishou" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Remove_K_Digits.coverage" NAME="Remove_K_Digits Coverage Results" MODIFIED="1535934791686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Alien_Dictionary.coverage" NAME="Alien_Dictionary Coverage Results" MODIFIED="1536035608884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$number_of_atoms.coverage" NAME="number_of_atoms Coverage Results" MODIFIED="1535082827802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$prime.coverage" NAME="prime Coverage Results" MODIFIED="1506557601454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/easy" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$sortedListToBST.coverage" NAME="sortedListToBST Coverage Results" MODIFIED="1515364926397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$The_Maze.coverage" NAME="The_Maze Coverage Results" MODIFIED="1535920016787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Group_Shifted_Strings.coverage" NAME="Group_Shifted_Strings Coverage Results" MODIFIED="1535740461814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$rotateList2.coverage" NAME="rotateList2 Coverage Results" MODIFIED="1517466134301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$spiral_matrix2.coverage" NAME="spiral_matrix2 Coverage Results" MODIFIED="1523943711182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$search_in_rotated_sorted_array.coverage" NAME="search_in_rotated_sorted_array Coverage Results" MODIFIED="1513054291362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$insertInterval.coverage" NAME="insertInterval Coverage Results" MODIFIED="1516922871510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$similar_string_groups.coverage" NAME="similar_string_groups Coverage Results" MODIFIED="1533852625467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$asteroid_collision.coverage" NAME="asteroid_collision Coverage Results" MODIFIED="1535469714916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$cut_off_trees_for_golf_event.coverage" NAME="cut_off_trees_for_golf_event Coverage Results" MODIFIED="1534621167413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$3.coverage" NAME="3 Coverage Results" MODIFIED="1522642356783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview_exam/2" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$word_search2.coverage" NAME="word_search2 Coverage Results" MODIFIED="1526494120983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$text_justify.coverage" NAME="text_justify Coverage Results" MODIFIED="1517460807398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Predict_the_Winner.coverage" NAME="Predict_the_Winner Coverage Results" MODIFIED="1535744008238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$ttt.coverage" NAME="ttt Coverage Results" MODIFIED="1522636698757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$removeDuplicates.coverage" NAME="removeDuplicates Coverage Results" MODIFIED="1515294643990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pascal_s_triangle2.coverage" NAME="pascal's_triangle2 Coverage Results" MODIFIED="1523668237571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/easy" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Minimun_Depth_Trees.coverage" NAME="Minimun_Depth_Trees Coverage Results" MODIFIED="1516339186154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$prefix2infix__1_.coverage" NAME="prefix2infix (1) Coverage Results" MODIFIED="1517102880677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/Quant" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$simplify_path.coverage" NAME="simplify_path Coverage Results" MODIFIED="1523763880200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$isScramble.coverage" NAME="isScramble Coverage Results" MODIFIED="1524777128630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$add_binary.coverage" NAME="add_binary Coverage Results" MODIFIED="1533966810624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/easy" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$decode_string.coverage" NAME="decode_string Coverage Results" MODIFIED="1527564473534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Longest_common_str.coverage" NAME="Longest_common_str Coverage Results" MODIFIED="1515016378927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$The_Maze_II.coverage" NAME="The_Maze_II Coverage Results" MODIFIED="1535921884193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$bytes_hex_int.coverage" NAME="bytes_hex_int Coverage Results" MODIFIED="1519612361771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Security/Cryptography" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$heapq_sort.coverage" NAME="heapq_sort Coverage Results" MODIFIED="1524785180871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/easy" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Pascal_s_triangle.coverage" NAME="Pascal's_triangle Coverage Results" MODIFIED="1506438379259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/easy" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1533512799054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/easy" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Reconstruct_Original_Digits_from_English.coverage" NAME="Reconstruct_Original_Digits_from_English Coverage Results" MODIFIED="1528255653933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$findKthLargestElement.coverage" NAME="findKthLargestElement Coverage Results" MODIFIED="1517107020167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$uniquePath2.coverage" NAME="uniquePath2 Coverage Results" MODIFIED="1522613252742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$reverse_by_recursive.coverage" NAME="reverse_by_recursive Coverage Results" MODIFIED="1506435805759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linked_list" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$find_right_interval.coverage" NAME="find_right_interval Coverage Results" MODIFIED="1528660795749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$prefix2infix.coverage" NAME="prefix2infix Coverage Results" MODIFIED="1516935682653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$passwordContainer.coverage" NAME="passwordContainer Coverage Results" MODIFIED="1518452077545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Security/Cryptography" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$dividWithoutDivid.coverage" NAME="dividWithoutDivid Coverage Results" MODIFIED="1517195634315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$search_in_2D_matrix.coverage" NAME="search_in_2D_matrix Coverage Results" MODIFIED="1516154653130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$compare_version_number.coverage" NAME="compare_version_number Coverage Results" MODIFIED="1533933424852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$maxProduct.coverage" NAME="maxProduct Coverage Results" MODIFIED="1511501354847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$strStr.coverage" NAME="strStr Coverage Results" MODIFIED="1517192755313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1526596213077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$combination_sum4.coverage" NAME="combination_sum4 Coverage Results" MODIFIED="1527387843384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$knapsack.coverage" NAME="knapsack Coverage Results" MODIFIED="1534025155220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview_exam/huawei" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$NQueens.coverage" NAME="NQueens Coverage Results" MODIFIED="1516823272317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Reconstruct_Itinerary.coverage" NAME="Reconstruct_Itinerary Coverage Results" MODIFIED="1533528075540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$scratch_25.coverage" NAME="scratch_25 Coverage Results" MODIFIED="1511936251666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CLRS" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$replace_words.coverage" NAME="replace_words Coverage Results" MODIFIED="1519348220089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$palindrome_partitioning2.coverage" NAME="palindrome_partitioning2 Coverage Results" MODIFIED="1525983387978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$shortest_unsorted_continuous_subarray.coverage" NAME="shortest_unsorted_continuous_subarray Coverage Results" MODIFIED="1511926495821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/easy" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$LRU_cache.coverage" NAME="LRU_cache Coverage Results" MODIFIED="1525196924936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$reverse_word_in_string.coverage" NAME="reverse_word_in_string Coverage Results" MODIFIED="1515643301298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Longest_Repeating_Character_Replacement.coverage" NAME="Longest_Repeating_Character_Replacement Coverage Results" MODIFIED="1528579132231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$course_schedule2.coverage" NAME="course_schedule2 Coverage Results" MODIFIED="1526248634074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Letter_Combinations_of_a_Phone_Number.coverage" NAME="Letter_Combinations_of_a_Phone_Number Coverage Results" MODIFIED="1511034017715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$MinStack.coverage" NAME="MinStack Coverage Results" MODIFIED="1506468599111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/easy" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$odd_even_linked_list.coverage" NAME="odd_even_linked_list Coverage Results" MODIFIED="1534707699307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$log2csv.coverage" NAME="log2csv Coverage Results" MODIFIED="1523651079354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/file_process" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pacific_atlantic_water_flow.coverage" NAME="pacific_atlantic_water_flow Coverage Results" MODIFIED="1528080807925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$strange_printer.coverage" NAME="strange_printer Coverage Results" MODIFIED="1533760767050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$longest_increasing_path_in_a_matrix.coverage" NAME="longest_increasing_path_in_a_matrix Coverage Results" MODIFIED="1527192234457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Different_Ways_to_Add_Parentheses.coverage" NAME="Different_Ways_to_Add_Parentheses Coverage Results" MODIFIED="1526846739454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Generate_parenthesis.coverage" NAME="Generate_parenthesis Coverage Results" MODIFIED="1506998641897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$number_of_island_2.coverage" NAME="number_of_island_2 Coverage Results" MODIFIED="1535669793427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$basic_calculator.coverage" NAME="basic_calculator Coverage Results" MODIFIED="1534378005408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$minimun_height_tree.coverage" NAME="minimun_height_tree Coverage Results" MODIFIED="1526954480380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Substring_with_Concatenation_of_All_Words.coverage" NAME="Substring_with_Concatenation_of_All_Words Coverage Results" MODIFIED="1534298170466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$next_permutation.coverage" NAME="next_permutation Coverage Results" MODIFIED="1535750136482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Meeting_Rooms_II.coverage" NAME="Meeting_Rooms_II Coverage Results" MODIFIED="1535757270646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$removeDuplicates2.coverage" NAME="removeDuplicates2 Coverage Results" MODIFIED="1515287688930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Longest_Increasing_Subsequence.coverage" NAME="Longest_Increasing_Subsequence Coverage Results" MODIFIED="1511039597726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$rectangle_min_sum.coverage" NAME="rectangle_min_sum Coverage Results" MODIFIED="1535082014664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$target_sum.coverage" NAME="target_sum Coverage Results" MODIFIED="1511813690509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$find_minimum_in_rotated_sorted_array2.coverage" NAME="find_minimum_in_rotated_sorted_array2 Coverage Results" MODIFIED="1525984243396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/hard" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$_Create_a_File__1_.coverage" NAME="_Create_a_File (1) Coverage Results" MODIFIED="1536027624847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Palindrome_Permutation.coverage" NAME="Palindrome_Permutation Coverage Results" MODIFIED="1535745404411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/easy" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$jd_samsung.coverage" NAME="jd_samsung Coverage Results" MODIFIED="1524686703514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview_exam/app_annie/samsung_spider/samsung_spider/spiders" />
     <SUITE FILE_PATH="coverage/PycharmProjects$palindrome_substring.coverage" NAME="palindrome_substring Coverage Results" MODIFIED="1506803167778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/easy" />
     <SUITE FILE_PATH="coverage/PycharmProjects$unique_substring_in_wrapround_string.coverage" NAME="unique_substring_in_wrapround_string Coverage Results" MODIFIED="1529023847166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/medium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$parse_typedef.coverage" NAME="parse_typedef Coverage Results" MODIFIED="1534027721628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview_exam/huawei" />
@@ -227,38 +223,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Closest_Binary_Search_Tree_Value.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/medium/Closest_Binary_Search_Tree_Value.py">
+      <file leaf-file-name="from_1st_row_to_lst_row.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/medium/from_1st_row_to_lst_row.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="The_Maze.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/medium/The_Maze.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
+            <state relative-caret-position="373">
               <caret line="40" column="20" lean-forward="true" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="The_Maze_II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/medium/The_Maze_II.py">
+      <file leaf-file-name="print_postorder_from_preorder_and_inorder.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/medium/print_postorder_from_preorder_and_inorder.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+            <state relative-caret-position="273">
+              <caret line="13" column="82" selection-start-line="13" selection-start-column="82" selection-end-line="13" selection-end-column="82" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="The_Maze_III.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/medium/The_Maze_III.py">
+      <file leaf-file-name="string_with_backspace.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/medium/string_with_backspace.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            <state relative-caret-position="184">
+              <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -272,39 +259,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Remove_K_Digits.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/hard/Remove_K_Digits.py">
+      <file leaf-file-name="form_maximum_rectangle.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/hard/form_maximum_rectangle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            <state relative-caret-position="105">
+              <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Closest_Binary_Search_Tree_Value_II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/hard/Closest_Binary_Search_Tree_Value_II.py">
+      <file leaf-file-name="Prefix_and_Suffix_Search.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/hard/Prefix_and_Suffix_Search.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="499">
-              <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+            <state relative-caret-position="478">
+              <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Making_A_Large_Island.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/hard/Making_A_Large_Island.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Alien_Dictionary.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Alien_Dictionary.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/leetcode/hard/Alien_Dictionary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="22" selection-start-column="22" selection-end-column="22" />
+            <state relative-caret-position="314">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contains_duplicate3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/hard/contains_duplicate3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-362" />
           </provider>
         </entry>
       </file>
@@ -352,18 +337,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/interview_exam/ByteDance/friend_cricle.py" />
-        <option value="$PROJECT_DIR$/leetcode/medium/Friend_circle.py" />
-        <option value="$PROJECT_DIR$/interview_exam/ByteDance/increasing_subsequence.py" />
-        <option value="$PROJECT_DIR$/interview_exam/ByteDance/double_born_word.py" />
-        <option value="$PROJECT_DIR$/interview_exam/ByteDance/valid_expression.py" />
         <option value="$PROJECT_DIR$/leetcode/medium/similar_wordss.py" />
         <option value="$PROJECT_DIR$/leetcode/hard/Russian_Roll_Envelopes.py" />
         <option value="$PROJECT_DIR$/leetcode/hard/split_array_largest_sum.py" />
         <option value="$PROJECT_DIR$/leetcode/medium/evaluate_reverse_polish_notation.py" />
         <option value="$PROJECT_DIR$/leetcode/medium/asteroid_collision.py" />
         <option value="$PROJECT_DIR$/leetcode/hard/Range_Sum_Query_2D_Mutable.py" />
-        <option value="$PROJECT_DIR$/leetcode/hard/Range_Sum_Query_Mutable.py" />
         <option value="$PROJECT_DIR$/leetcode/hard/Binary_Tree_Longest_Consecutive_Sequence.py" />
         <option value="$PROJECT_DIR$/leetcode/hard/_Create_a_File.py" />
         <option value="$PROJECT_DIR$/leetcode/hard/Valid_Word_Square.py" />
@@ -394,7 +373,6 @@
         <option value="$PROJECT_DIR$/leetcode/medium/course_schedule2.py" />
         <option value="$PROJECT_DIR$/leetcode/medium/Elimination_Game.py" />
         <option value="$PROJECT_DIR$/leetcode/hard/Making_A_Large_Island.py" />
-        <option value="$PROJECT_DIR$/leetcode/hard/Alien_Dictionary.py" />
         <option value="$PROJECT_DIR$/leetcode/easy/Nim_Game.py" />
         <option value="$PROJECT_DIR$/leetcode/easy/CSV_Formatter.py" />
         <option value="$PROJECT_DIR$/leetcode/medium/The_Maze.py" />
@@ -403,6 +381,13 @@
         <option value="$PROJECT_DIR$/leetcode/medium/Closest_Binary_Search_Tree_Value.py" />
         <option value="$PROJECT_DIR$/leetcode/hard/Closest_Binary_Search_Tree_Value_II.py" />
         <option value="$PROJECT_DIR$/leetcode/hard/Remove_K_Digits.py" />
+        <option value="$PROJECT_DIR$/leetcode/medium/print_postorder_from_preorder_and_inorder.py" />
+        <option value="$PROJECT_DIR$/leetcode/hard/Prefix_and_Suffix_Search.py" />
+        <option value="$PROJECT_DIR$/leetcode/medium/from_1st_row_to_lst_row.py" />
+        <option value="$PROJECT_DIR$/leetcode/hard/form_maximum_rectangle.py" />
+        <option value="$PROJECT_DIR$/leetcode/medium/string_with_backspace.py" />
+        <option value="$PROJECT_DIR$/leetcode/hard/Range_Sum_Query_Mutable.py" />
+        <option value="$PROJECT_DIR$/leetcode/hard/Alien_Dictionary.py" />
       </list>
     </option>
   </component>
@@ -486,12 +471,6 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="hard" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -499,7 +478,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="f&#9;FILE&#9;file://H:/PycharmProjects/leetcode/medium/Friend_circle.py&#10;non&#9;null&#9;null&#10;friend&#9;null&#9;null&#10;initoption&#9;null&#9;null&#10;reverse&#9;FILE&#9;file://H:/PycharmProjects/CLRS/linked_list/reverse_by_loop.py&#10;wiggle_sort&#9;null&#9;null&#10;reconstruct&#9;null&#9;null&#10;sch&#9;null&#9;null&#10;graph&#9;null&#9;null&#10;radix&#9;null&#9;null&#10;quicksel&#9;null&#9;null&#10;unique&#9;null&#9;null&#10;maxim&#9;null&#9;null&#10;Constant&#9;null&#9;null&#10;gcd&#9;FILE&#9;file://G:/python3.6/Lib/test/dtracedata/gc.d&#10;count bit&#9;null&#9;null&#10;bits&#9;FILE&#9;file://G:/python3.6/include/bitset.h&#10;two&#9;FILE&#9;file://H:/PycharmProjects/test/easy/two_sum.py" />
+    <property name="SearchEverywhereHistoryKey" value="alien&#9;FILE&#9;file://H:/GithubProjs/PycharmProjects/leetcode/hard/Alien_Dictionary.py&#10;mutab&#9;FILE&#9;file://H:/GithubProjs/PycharmProjects/leetcode/hard/Range_Sum_Query_Mutable.py&#10;f&#9;FILE&#9;file://H:/PycharmProjects/leetcode/medium/Friend_circle.py&#10;non&#9;null&#9;null&#10;friend&#9;null&#9;null&#10;initoption&#9;null&#9;null&#10;reverse&#9;FILE&#9;file://H:/PycharmProjects/CLRS/linked_list/reverse_by_loop.py&#10;wiggle_sort&#9;null&#9;null&#10;reconstruct&#9;null&#9;null&#10;sch&#9;null&#9;null&#10;graph&#9;null&#9;null&#10;radix&#9;null&#9;null&#10;quicksel&#9;null&#9;null&#10;unique&#9;null&#9;null&#10;maxim&#9;null&#9;null&#10;Constant&#9;null&#9;null&#10;gcd&#9;FILE&#9;file://G:/python3.6/Lib/test/dtracedata/gc.d&#10;count bit&#9;null&#9;null&#10;bits&#9;FILE&#9;file://G:/python3.6/include/bitset.h&#10;two&#9;FILE&#9;file://H:/PycharmProjects/test/easy/two_sum.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -532,8 +511,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Remove_K_Digits">
-    <configuration name="Closest_Binary_Search_Tree_Value_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Alien_Dictionary">
+    <configuration name="Alien_Dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -546,45 +525,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/hard/Closest_Binary_Search_Tree_Value_II.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Remove_K_Digits" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode/hard" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/hard/Remove_K_Digits.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="The_Maze_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode/medium" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/medium/The_Maze_II.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/hard/Alien_Dictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -628,20 +569,58 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="from_1st_row_to_lst_row" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode/medium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/medium/from_1st_row_to_lst_row.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="print_postorder_from_preorder_and_inorder" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode/medium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/medium/print_postorder_from_preorder_and_inorder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.The_Maze_II" />
       <item itemvalue="Python._Create_a_File (2)" />
       <item itemvalue="Python._Create_a_File (1)" />
-      <item itemvalue="Python.Closest_Binary_Search_Tree_Value_II" />
-      <item itemvalue="Python.Remove_K_Digits" />
+      <item itemvalue="Python.print_postorder_from_preorder_and_inorder" />
+      <item itemvalue="Python.from_1st_row_to_lst_row" />
+      <item itemvalue="Python.Alien_Dictionary" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Remove_K_Digits" />
-        <item itemvalue="Python._Create_a_File (2)" />
-        <item itemvalue="Python.Closest_Binary_Search_Tree_Value_II" />
+        <item itemvalue="Python.Alien_Dictionary" />
         <item itemvalue="Python._Create_a_File (1)" />
-        <item itemvalue="Python.The_Maze_II" />
+        <item itemvalue="Python._Create_a_File (2)" />
+        <item itemvalue="Python.from_1st_row_to_lst_row" />
+        <item itemvalue="Python.print_postorder_from_preorder_and_inorder" />
       </list>
     </recent_temporary>
   </component>
@@ -684,7 +663,14 @@
       <option name="project" value="LOCAL" />
       <updated>1535775379384</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="keep solving">
+      <created>1535937185053</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1535937185053</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -699,20 +685,21 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32903227" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.35660982" side_tool="true" visible="true" weight="0.3426724" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.3286638" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.24520256" side_tool="true" visible="true" weight="0.38362068" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Python Console" order="9" sideWeight="0.49573562" weight="0.3286638" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6433902" visible="true" weight="0.3426724" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.64179105" weight="0.3426724" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49573562" weight="0.3286638" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1705757" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1705757" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286638" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7563966" weight="0.38362068" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.75479746" visible="true" weight="0.38362068" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -720,7 +707,6 @@
       <window_info anchor="right" id="Data View" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3286638" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" sideWeight="0.4978678" weight="0.3286638" />
     </layout>
   </component>
@@ -735,7 +721,8 @@
     <MESSAGE value="gg simida" />
     <MESSAGE value="gg" />
     <MESSAGE value="gg add some problems, but not solved yet" />
-    <option name="LAST_COMMIT_MESSAGE" value="gg add some problems, but not solved yet" />
+    <MESSAGE value="keep solving" />
+    <option name="LAST_COMMIT_MESSAGE" value="keep solving" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2235,6 +2222,16 @@
           <line>13</line>
           <option name="timeStamp" value="534" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/hard/Alien_Dictionary.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="536" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/hard/Alien_Dictionary.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="538" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -2246,7 +2243,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="536" />
+      <option name="time" value="539" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -2264,73 +2261,10 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/hard/Russian_Roll_Envelopes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/medium/similar_wordss.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/easy/Non_decreasing_Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/hard/split_array_largest_sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/medium/evaluate_reverse_polish_notation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/medium/asteroid_collision.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/hard/Range_Sum_Query_2D_Mutable.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/hard/Range_Sum_Query_Mutable.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="79" selection-start-line="17" selection-start-column="79" selection-end-line="17" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/hard/basic_calculator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/hard/Binary_Tree_Longest_Consecutive_Sequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -2573,20 +2507,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/hard/Alien_Dictionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/medium/_Create_a_File.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/medium/Closest_Binary_Search_Tree_Value.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -2594,10 +2514,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/hard/Remove_K_Digits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/hard/Binary_Tree_Longest_Consecutive_Sequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/hard/calculator.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/hard/Closest_Binary_Search_Tree_Value_II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="499">
           <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/hard/contains_duplicate3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-362" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/hard/Prefix_and_Suffix_Search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -2608,10 +2557,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/hard/Remove_K_Digits.py">
+    <entry file="file://$PROJECT_DIR$/leetcode/hard/form_maximum_rectangle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        <state relative-caret-position="105">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/medium/_Create_a_File.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/medium/from_1st_row_to_lst_row.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="40" column="20" lean-forward="true" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/medium/print_postorder_from_preorder_and_inorder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="82" selection-start-line="13" selection-start-column="82" selection-end-line="13" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/hard/Range_Sum_Query_Mutable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="62" lean-forward="true" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/medium/string_with_backspace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/hard/Alien_Dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
