@@ -26,6 +26,7 @@ class Solution(object):
                 y += y & -y
             x += x & -x
         self.mat[i + 1][j + 1] = val
+
     def getSum(self, i, j):
         res = 0
         x = i

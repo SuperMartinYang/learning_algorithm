@@ -4,3 +4,5 @@ class Solution(object):
         :param infix: A+B-C*D
         :return: -+AB*CD
         """
+        # TODO
+        return
