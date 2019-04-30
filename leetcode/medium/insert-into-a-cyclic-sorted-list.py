@@ -16,7 +16,7 @@ class Solution(object):
         cur = node
         while flag:
             # between two node
-            if cur.val < x >= x:
+            if cur.val < x <= cur.next.val:
                 break
             # put it to head or tail
             if cur.val > cur.next.val and (x > cur.val or x <= cur.next.val):

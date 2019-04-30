@@ -32,4 +32,4 @@ class Solution(object):
         return res
 
 
-print(Solution([1,3,5]).rangeSum(0, 2))
+print(Solution([1,3,5,-3,9,7,10]).rangeSum(0, 2))
