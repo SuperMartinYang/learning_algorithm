@@ -1,0 +1,1 @@
+def friend_from_other_department(employee, friendlist):
