@@ -19,4 +19,15 @@ def partition(nums):
     nums[buck] = val
     return buck
 
+
+def maxProduct(A):
+    B = A[::-1]
+    for i in range(1, len(A)):
+        A[i] *= A[i - 1] or 1
+        B[i] *= B[i - 1] or 1
+    C = A + B
+    return max(C)
+
+print(maxProduct([-2, 0, -1]))
+
 print(quickSort([4,5,6,1,2,3]))
